@@ -1,0 +1,1052 @@
+2023-03-15 10:18:20 INFO  LoginController:36 - e15ec02d-ac03-4bc8-ab7f-e8c9283adf84chiamata REST di login eseguita. ID: 
+2023-03-15 10:18:20 INFO  LoginController:125 - e15ec02d-ac03-4bc8-ab7f-e8c9283adf84 ___ inizio tentativo login da user:exampleuser29
+2023-03-15 10:18:20 INFO  LoginController:109 - e15ec02d-ac03-4bc8-ab7f-e8c9283adf84encrypted password matching check success
+2023-03-15 10:18:21 INFO  LoginController:168 - e15ec02d-ac03-4bc8-ab7f-e8c9283adf84 ___ login utente valido.
+2023-03-15 10:18:21 INFO  LoginController:65 - e15ec02d-ac03-4bc8-ab7f-e8c9283adf84 ___ login completato.
+2023-03-15 10:18:21 INFO  LoginController:72 - 6376d105-2731-4fd2-9e0f-15077d123177 ___ action login: SUCCESS
+2023-03-15 10:18:21 INFO  LoginController:76 - d6b1fe9b-b13b-4fe3-8387-4dca0617b14f ___ token valido
+2023-03-15 10:18:21 INFO  LoginController:76 - 91e5736b-e684-4ca8-807f-742d1ec8a322 ___ token valido
+2023-03-15 10:18:22 INFO  LoginController:76 - dca77dbc-e78c-44c3-bedc-3b1c836042ec ___ token valido
+2023-03-15 10:18:22 INFO  LoginController:76 - 50b08fd7-16b7-47ad-8fca-f0dcc08f0431 ___ token valido
+2023-03-15 10:18:22 INFO  LoginController:77 - 87038248-9f6c-4d78-80fe-2c13e45e0e99 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:18:22 INFO  LoginController:76 - 9d602eb1-1d40-469e-9ba8-c8802510d2cd ___ token valido
+2023-03-15 10:18:22 INFO  LoginController:77 - d38bc781-479d-42e7-84ce-2c87f77ed73a ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:18:22 INFO  LoginController:76 - 7051d209-90ec-4c3c-b13a-32b07a208885 ___ token valido
+2023-03-15 10:18:23 INFO  LoginController:76 - 2135b2bb-5bcd-4b59-9aac-dbc22fe80065 ___ token valido
+2023-03-15 10:18:24 INFO  LoginController:76 - 59def16b-e949-46f1-8486-5d1af7bb9dd3 ___ token valido
+2023-03-15 10:18:24 INFO  LoginController:76 - 5b2ed849-5c85-4a9b-a969-1f323e298340 ___ token valido
+2023-03-15 10:18:24 INFO  LoginController:76 - 8c443ac0-92f3-4856-8d11-41aceac9fadb ___ token valido
+2023-03-15 10:18:32 INFO  LoginController:76 - 1b02950e-f794-411a-a0f4-099c20cacb1c ___ token valido
+2023-03-15 10:18:32 INFO  LoginController:76 - 1aa2a2b3-cad2-4cb3-96b6-7b99fe905bdf ___ token valido
+2023-03-15 10:18:32 INFO  LoginController:158 - 505293ed-8e30-42dc-b73b-426d76620937 ___ file upload stream buffer success
+2023-03-15 10:18:32 INFO  LoginController:114 - 505293ed-8e30-42dc-b73b-426d76620937 ___ file upload process success
+2023-03-15 10:18:32 INFO  LoginController:72 - 7d917fe0-e60b-497c-acdd-8de495a78756 ___ action drive upload: SUCCESS
+2023-03-15 10:18:32 INFO  LoginController:77 - 2bbb2a02-5df5-4850-b874-4a390bee5f86 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:18:35 INFO  LoginController:77 - 9c71dec6-db6e-456f-bb6c-ffd9fc6f01ba ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:18:35 INFO  LoginController:76 - d60c1b60-53e3-49e3-8ec3-2efa371b76d5 ___ token valido
+2023-03-15 10:18:35 INFO  LoginController:77 - 7aaee1a3-a0b7-4160-b162-911b15cd04b0 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:18:35 INFO  LoginController:76 - adf22d7c-8483-4faa-9c49-7ca05bc27aa6 ___ token valido
+2023-03-15 10:18:36 INFO  LoginController:76 - 77a4b379-f688-47f9-a542-bd0059275674 ___ token valido
+2023-03-15 10:18:36 INFO  LoginController:76 - ab605407-f11a-4b1d-b78b-411f0391c168 ___ token valido
+2023-03-15 10:18:37 INFO  LoginController:76 - c05aa4c2-c64d-463f-91a2-33465a4be872 ___ token valido
+2023-03-15 10:18:37 INFO  LoginController:76 - add459cb-459b-455e-95bc-d3a63f36f669 ___ token valido
+2023-03-15 10:18:38 INFO  LoginController:76 - 341fa083-3ba6-4543-b9ba-51d67e68e391 ___ token valido
+2023-03-15 10:18:38 INFO  LoginController:76 - bf474180-4631-48ea-b483-56a11ea15cff ___ token valido
+2023-03-15 10:18:38 INFO  LoginController:76 - ff9d0464-2777-4357-a1b5-65cb0c954bce ___ token valido
+2023-03-15 10:18:38 INFO  LoginController:76 - 8f2a82cf-769f-4a39-a9b2-217b3cda7ba4 ___ token valido
+2023-03-15 10:18:38 INFO  LoginController:76 - 0d6b4dbc-e551-49ea-9065-25067129470b ___ token valido
+2023-03-15 10:18:38 INFO  LoginController:76 - 1cdca894-ba60-481a-b46a-0710636e3c66 ___ token valido
+2023-03-15 10:18:39 INFO  LoginController:76 - 73fe9c2a-6f1d-49dc-a1b2-60b64b07771a ___ token valido
+2023-03-15 10:18:39 INFO  LoginController:76 - 038aec57-9030-4eb3-b1fb-c26ef420964c ___ token valido
+2023-03-15 10:18:39 INFO  LoginController:76 - 02d19a28-4446-48c6-884a-074008f64c13 ___ token valido
+2023-03-15 10:18:39 INFO  LoginController:76 - e477f292-4aaf-48a9-a3df-c2c01105de48 ___ token valido
+2023-03-15 10:18:41 INFO  LoginController:76 - 248dd920-7db2-48e3-953f-da03c7ce0d2e ___ token valido
+2023-03-15 10:18:41 INFO  LoginController:76 - f29c3bb2-6b59-4d04-a87f-b974ded0d9ef ___ token valido
+2023-03-15 10:24:28 INFO  LoginController:76 - 860a1cb9-b9eb-480a-9a03-170b2b04d2bf ___ token valido
+2023-03-15 10:24:28 INFO  LoginController:76 - 49ffab0f-0bf2-41f1-84ae-c6287f49c14e ___ token valido
+2023-03-15 10:24:32 INFO  LoginController:76 - ff3052f8-de28-4783-b83c-a5cbf3043eb9 ___ token valido
+2023-03-15 10:24:32 INFO  LoginController:76 - faf584e4-9af5-459f-8df7-f8963960d63e ___ token valido
+2023-03-15 10:24:39 INFO  LoginController:77 - c5272376-dd76-41aa-b61f-c34cb27cafb5 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:24:39 INFO  LoginController:164 - 30ef7201-ad7c-4322-a837-dbff6598e629 ___ file upload stream buffer success
+2023-03-15 10:24:39 INFO  LoginController:120 - 30ef7201-ad7c-4322-a837-dbff6598e629 ___ file upload process success
+2023-03-15 10:24:39 INFO  LoginController:77 - a08257e3-9a79-41d4-ac1a-922d1e557e7a ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:24:40 INFO  LoginController:72 - d9d30e05-4ec2-4630-b066-7d559581bc71 ___ action drive upload: SUCCESS
+2023-03-15 10:24:42 INFO  LoginController:77 - 6417d6a4-b86f-403a-8b13-245a4239ed9f ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:24:42 INFO  LoginController:77 - 06b6319a-7c1f-4313-8af5-c9132f14871c ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:24:42 INFO  LoginController:76 - 7ebef510-66db-431e-bb38-6dd9406ca318 ___ token valido
+2023-03-15 10:24:42 INFO  LoginController:76 - d7017d53-9aaa-48a0-b208-865a3e762ec8 ___ token valido
+2023-03-15 10:26:17 INFO  LoginController:76 - 8325ae2d-6f02-4eb7-9494-8bf7ba84f115 ___ token valido
+2023-03-15 10:26:17 INFO  LoginController:76 - 686560ac-9a33-42e2-b18b-b6ed79c353db ___ token valido
+2023-03-15 10:26:20 INFO  LoginController:76 - c747f64c-da46-40eb-87b7-e0f7fb1d2c55 ___ token valido
+2023-03-15 10:26:20 INFO  LoginController:76 - 7acf8097-a7f9-4802-be83-a083832f9235 ___ token valido
+2023-03-15 10:26:27 INFO  LoginController:77 - 55606a1f-f669-4a50-bfc2-6ab8a216d223 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:26:27 INFO  LoginController:164 - 0f3aca3c-b514-4e7c-a991-bce06ab8f98c ___ file upload stream buffer success
+2023-03-15 10:26:27 INFO  LoginController:120 - 0f3aca3c-b514-4e7c-a991-bce06ab8f98c ___ file upload process success
+2023-03-15 10:26:27 INFO  LoginController:77 - 5b0131c3-5824-4123-b9f5-893e8378116b ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:26:28 INFO  LoginController:72 - a63070ce-c30a-4006-bdd8-2056ec509be8 ___ action drive upload: SUCCESS
+2023-03-15 10:26:29 INFO  LoginController:77 - 0abdee0e-c92f-43f3-90a7-e3cfceac4f41 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:26:29 INFO  LoginController:77 - cc5947a6-8c23-42e7-9062-dbecc9728226 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:26:29 INFO  LoginController:76 - 3b5ae3fa-7aa2-42d1-9000-a8dacde33e60 ___ token valido
+2023-03-15 10:26:29 INFO  LoginController:76 - fd089780-7221-4b89-a31f-31e87dc27302 ___ token valido
+2023-03-15 10:26:30 INFO  LoginController:76 - a03a7746-75d1-4fc8-bc38-7ec745d1b2ed ___ token valido
+2023-03-15 10:26:30 INFO  LoginController:76 - a1a70f06-95d8-43a8-9e65-f68854471088 ___ token valido
+2023-03-15 10:27:29 INFO  LoginController:76 - 2204402d-d50b-40a6-b66e-c75aca5f8942 ___ token valido
+2023-03-15 10:27:29 INFO  LoginController:76 - 7ddc6ad3-a606-40bc-a7ca-6adfc2ebbc66 ___ token valido
+2023-03-15 10:27:33 INFO  LoginController:76 - bcaea33b-76cd-46fc-a086-721edda7c648 ___ token valido
+2023-03-15 10:27:33 INFO  LoginController:76 - 0c1aa3a0-147b-466b-a1d4-787135814b2a ___ token valido
+2023-03-15 10:27:33 INFO  LoginController:76 - db4b9127-569c-46ab-af2b-61b5d7270a53 ___ token valido
+2023-03-15 10:27:33 INFO  LoginController:76 - f4f819be-14f4-43ca-ba18-b022e3f5d03e ___ token valido
+2023-03-15 10:27:42 INFO  LoginController:77 - 67cbd2de-bd5b-457e-b69c-11a074cee90d ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:27:43 INFO  LoginController:159 - ca8f7c17-7e56-48d5-88a7-f834a48d1a50 ___ file upload stream buffer success
+2023-03-15 10:27:43 INFO  LoginController:115 - ca8f7c17-7e56-48d5-88a7-f834a48d1a50 ___ file upload process success
+2023-03-15 10:27:43 INFO  LoginController:77 - 4c966320-76ef-4b4e-bb9d-565dcf6f126b ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:27:43 INFO  LoginController:72 - 428483ad-04e4-4166-bfe7-10a51031b652 ___ action drive upload: SUCCESS
+2023-03-15 10:38:28 INFO  LoginController:76 - f52f156f-9c37-42a3-a235-178a732c1d88 ___ token valido
+2023-03-15 10:38:28 INFO  LoginController:76 - b405a242-2146-4e3a-a1ac-cf3174e68cd3 ___ token valido
+2023-03-15 10:38:29 INFO  LoginController:77 - 16800691-1b93-4869-a0d8-a6db8e4e670c ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:38:29 INFO  LoginController:76 - 9964ccc0-b332-439f-a713-21cc32182248 ___ token valido
+2023-03-15 10:38:29 INFO  LoginController:77 - 7cb57f68-ba3a-4df4-8c15-0422ed33a78f ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:38:29 INFO  LoginController:76 - eed12cd0-7733-4b28-877f-efa2c5c65b2b ___ token valido
+2023-03-15 10:39:52 INFO  LoginController:76 - b3718598-90e9-4250-964b-d0037adc4563 ___ token valido
+2023-03-15 10:39:52 INFO  LoginController:76 - e188c08d-797d-477a-8c58-a34f1ecd77e6 ___ token valido
+2023-03-15 10:39:54 INFO  LoginController:76 - 6cceb4f0-5ed9-43a9-83d4-890374fdbf5f ___ token valido
+2023-03-15 10:39:54 INFO  LoginController:76 - f7009493-3248-4233-88c5-21aa51252fc8 ___ token valido
+2023-03-15 10:39:54 INFO  LoginController:76 - 27c8ef8f-43f6-4e8d-bde5-2bbc794e8afe ___ token valido
+2023-03-15 10:39:54 INFO  LoginController:76 - ecbd8e1f-cbc9-4591-a997-0f4c68e9b138 ___ token valido
+2023-03-15 10:39:58 INFO  LoginController:76 - 5fecb183-2396-4aa1-acdc-7a4bc553bde9 ___ token valido
+2023-03-15 10:39:58 INFO  LoginController:76 - efe475cc-211d-4b33-b12f-a0aaac13701c ___ token valido
+2023-03-15 10:40:05 INFO  LoginController:77 - 44d73174-997e-4310-80b9-d5134b3662ac ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:40:06 INFO  LoginController:159 - 00b024f6-e2c4-4b6b-bc06-b557e118f00e ___ file upload stream buffer success
+2023-03-15 10:40:06 INFO  LoginController:115 - 00b024f6-e2c4-4b6b-bc06-b557e118f00e ___ file upload process success
+2023-03-15 10:40:06 INFO  LoginController:77 - 54db1ff1-cfe3-486b-b58c-77309cbaaec2 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:40:06 INFO  LoginController:72 - 9744eeb7-d85d-45af-8906-6472e073e1b6 ___ action drive upload: SUCCESS
+2023-03-15 10:40:08 INFO  LoginController:77 - 6d716738-a5c2-4ef1-8eca-05623f475cc7 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:40:08 INFO  LoginController:76 - bc7845ef-715c-4a10-ace5-538beb55b1f7 ___ token valido
+2023-03-15 10:40:08 INFO  LoginController:77 - 5475c323-8c4e-42fa-84f0-dac2bea66126 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:40:08 INFO  LoginController:76 - 2d406590-361c-4123-9992-7cf2ce0d9837 ___ token valido
+2023-03-15 10:42:39 INFO  LoginController:77 - a8ce16b2-78e6-4b21-86d1-b4f5a709d352 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:42:39 INFO  LoginController:77 - e0330018-29f9-4441-8b9e-84e2f6430998 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:42:39 INFO  LoginController:76 - 63ae0108-9183-4ccc-a515-3c1688c27366 ___ token valido
+2023-03-15 10:42:39 INFO  LoginController:76 - 380b7255-05f8-4253-a94b-34f79f0cd408 ___ token valido
+2023-03-15 10:42:40 INFO  LoginController:76 - 64bdabb6-9eeb-447a-a1ce-9fb8bb8899a2 ___ token valido
+2023-03-15 10:42:40 INFO  LoginController:76 - d5f6343b-5ee9-4662-b601-2b9af376564a ___ token valido
+2023-03-15 10:42:43 INFO  LoginController:76 - 0fbfd224-b6f7-474f-8173-0e19a8d94c51 ___ token valido
+2023-03-15 10:42:43 INFO  LoginController:76 - 7477a9f4-fa43-4ea4-86dd-44a1fa04dbd4 ___ token valido
+2023-03-15 10:42:52 INFO  LoginController:77 - 2c501c14-973c-45ec-88f9-6ea252a18622 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:42:53 INFO  LoginController:159 - aa285142-22c6-4b09-bc24-48cbb3125097 ___ file upload stream buffer success
+2023-03-15 10:42:53 INFO  LoginController:115 - aa285142-22c6-4b09-bc24-48cbb3125097 ___ file upload process success
+2023-03-15 10:42:53 INFO  LoginController:77 - 0a1a8523-4018-4662-a33f-761f708362cb ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:42:53 INFO  LoginController:72 - c784e10f-3559-4a07-86b1-139bdf4370a3 ___ action drive upload: SUCCESS
+2023-03-15 10:43:02 INFO  LoginController:76 - 989cf3bd-dc76-4ef4-a003-5a6780be05a2 ___ token valido
+2023-03-15 10:43:02 INFO  LoginController:76 - 865a36a3-9dcc-4eff-a243-2def2571345f ___ token valido
+2023-03-15 10:43:03 INFO  LoginController:76 - 7126cef3-0eaf-447d-b3b4-dc9facfa3e9c ___ token valido
+2023-03-15 10:43:03 INFO  LoginController:76 - dba58f2e-ad1e-4e97-8e85-ffb96bd23853 ___ token valido
+2023-03-15 10:43:03 INFO  LoginController:72 - faba01a2-6092-4f02-99bc-5c6f43f3c0f8 ___ action drive download: SUCCESS
+2023-03-15 10:43:05 INFO  LoginController:72 - 2b97ae98-0a1e-44cd-bf5d-e66b6fc4ca6f ___ action drive delete: SUCCESS
+2023-03-15 10:43:05 INFO  LoginController:77 - 16baa939-07bd-49cc-bb20-b97186a95309 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:43:05 INFO  LoginController:76 - d95a6bd4-9605-4e53-98ee-c90693dc7c68 ___ token valido
+2023-03-15 10:43:05 ERROR LoginController:240 - bdcace2b-ff6b-4836-bfc6-11fdb8b6395a ___ file delete failed200000000B (7) (4) (1) (1) (4)(1).txt
+2023-03-15 10:43:05 INFO  LoginController:76 - 17cb591f-106f-4237-9655-d2717f7a3185 ___ token valido
+2023-03-15 10:43:07 INFO  LoginController:77 - a8f02ae5-c406-44c6-9ed0-a464cdeba027 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:43:07 INFO  LoginController:76 - 93dcdf84-93a3-49ae-8868-45720eb924f2 ___ token valido
+2023-03-15 10:43:07 INFO  LoginController:77 - daa0b036-ffc4-430f-826b-384d7e5db56e ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:43:07 INFO  LoginController:76 - 66a4f124-940e-462c-a8ea-0d9cae5aa77c ___ token valido
+2023-03-15 10:43:09 INFO  LoginController:72 - 1ff46d3d-9cb8-4ca4-a17f-9dd577dd3136 ___ action drive delete: SUCCESS
+2023-03-15 10:43:09 ERROR LoginController:240 - 08b93097-312d-4ebf-8998-0ce63b477944 ___ file delete failed200000000B (7) (4) (1) (1) (4)(1).txt
+2023-03-15 10:43:09 INFO  LoginController:77 - 06b2f2bb-a861-4dc2-81ab-295357433917 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:43:09 INFO  LoginController:76 - 351f3da1-e8d7-45e1-97cc-318e58bd6894 ___ token valido
+2023-03-15 10:43:09 INFO  LoginController:76 - dc0dbdbe-e223-45be-9387-ebfc2c5c8a4a ___ token valido
+2023-03-15 10:44:20 INFO  LoginController:77 - 0ee17981-77d3-4afe-bd62-ab9a0fdec31a ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:20 INFO  LoginController:234 - 5922bbdc-1abe-4f2e-ad79-a35c8bb7f34d ___ file delete success200000000B (7) (4) (1) (1) (4)(1).txt
+2023-03-15 10:44:20 INFO  LoginController:76 - 04da9d2f-4366-43f7-8913-385d21d0d110 ___ token valido
+2023-03-15 10:44:20 INFO  LoginController:76 - 6369fc11-a4ff-4cf6-a855-6c4384a62f23 ___ token valido
+2023-03-15 10:44:20 INFO  LoginController:72 - b79d2433-9fe1-45ad-bebe-3c4789154aa0 ___ action drive delete: SUCCESS
+2023-03-15 10:44:22 INFO  LoginController:77 - 42c8c848-9bca-4416-bec5-0fd78d3de6bc ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:22 INFO  LoginController:77 - 120d7a98-9ca7-46a5-96e8-056813a897f6 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:22 INFO  LoginController:76 - 6cbe5a85-0aa9-4206-83aa-379d46ecfc06 ___ token valido
+2023-03-15 10:44:22 INFO  LoginController:76 - e4890fcd-32c4-471b-a4ba-606756f8f409 ___ token valido
+2023-03-15 10:44:24 INFO  LoginController:72 - f097a8e8-e3af-4256-a379-f913e4b7f479 ___ action drive delete: SUCCESS
+2023-03-15 10:44:24 INFO  LoginController:76 - 6fc926df-7b09-4b96-b44b-0f1d03b399dc ___ token valido
+2023-03-15 10:44:24 INFO  LoginController:234 - bee87324-1785-4616-becf-fcb81da95574 ___ file delete success200000000B (7) (4) (1) (1) (4).txt
+2023-03-15 10:44:24 INFO  LoginController:77 - f26344d1-b0bd-47aa-8520-5749a10fa4b4 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:24 INFO  LoginController:76 - 8f6d56e6-5db7-43b3-9529-4afb3ae8e9c3 ___ token valido
+2023-03-15 10:44:26 INFO  LoginController:72 - 9912da45-95e8-4208-b98e-df4b7e2f35d1 ___ action drive delete: SUCCESS
+2023-03-15 10:44:26 INFO  LoginController:76 - 3834149f-8820-4fe5-9683-63465951aa7b ___ token valido
+2023-03-15 10:44:26 INFO  LoginController:234 - be772de9-912f-451a-ae63-5b76663f816b ___ file delete success200000000B (7) (4) (1) (4) (1).txt
+2023-03-15 10:44:26 INFO  LoginController:77 - 96cb4aab-e92c-4fef-b787-9a28713a204e ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:26 INFO  LoginController:76 - fb13d7e1-cfab-40a6-aabf-3d18c3628c6b ___ token valido
+2023-03-15 10:44:27 INFO  LoginController:72 - c521089a-45c0-4fcf-a0f7-75d1ae281b81 ___ action drive delete: SUCCESS
+2023-03-15 10:44:27 INFO  LoginController:77 - 26b9dd81-e574-449c-bc17-b6717e4d42f5 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:27 INFO  LoginController:76 - 3df8c080-28c2-4fda-ac00-da3f92783a6e ___ token valido
+2023-03-15 10:44:27 INFO  LoginController:76 - 223a792e-ce99-44d3-a49f-99696f0597f0 ___ token valido
+2023-03-15 10:44:27 INFO  LoginController:234 - 1312e668-71d7-4c04-acab-915d98b6e148 ___ file delete success200000000B (7) (4) (1) (8) (1).txt
+2023-03-15 10:44:29 INFO  LoginController:72 - 9775891c-9da1-4486-ad16-0ad22d265191 ___ action drive delete: SUCCESS
+2023-03-15 10:44:29 INFO  LoginController:77 - dd2caf51-7686-40af-8ce7-8b06d2c92fb1 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:29 INFO  LoginController:234 - d2fc2d45-ad21-40a3-b360-d37ae6ea74d5 ___ file delete successexportaction_exampleuser29 (4).pdf
+2023-03-15 10:44:29 INFO  LoginController:76 - 0b614acd-0f66-465a-9bc6-b1d4b4cf7b55 ___ token valido
+2023-03-15 10:44:29 INFO  LoginController:76 - 0175e1b5-0d1a-4517-be15-d861c09633f4 ___ token valido
+2023-03-15 10:44:31 INFO  LoginController:77 - c3e244ac-677f-4ab8-b85f-4781d19fafe8 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:31 INFO  LoginController:76 - b85a1625-8c91-4367-a7da-5c7cd99b9852 ___ token valido
+2023-03-15 10:44:31 INFO  LoginController:77 - b452826a-f403-4b11-9f8c-f5145c28ae4f ___ file list retrieve in directoryexampleuser29success
+2023-03-15 10:44:31 INFO  LoginController:76 - 55be73e8-7b90-4886-b15e-511a4ffaf570 ___ token valido
+2023-03-15 10:44:32 INFO  LoginController:76 - 69d05a28-1fe3-4eb7-a866-288573197bf9 ___ token valido
+2023-03-15 10:44:32 INFO  LoginController:76 - cd8073e9-3568-4ff5-98ba-33bb78dfa499 ___ token valido
+2023-03-15 10:53:30 INFO  LoginController:76 - b4636f79-1201-4102-be0a-8bc11ff28d6b ___ token valido
+2023-03-15 10:53:30 INFO  LoginController:76 - 2dc3b024-ade3-44a6-b7dc-68cc62cafc34 ___ token valido
+2023-03-15 10:53:31 INFO  LoginController:76 - b8314cf9-9e3e-4638-83fd-7a74c62d3e64 ___ token valido
+2023-03-15 10:53:31 INFO  LoginController:76 - d9e15b30-99a1-44c5-b57d-cd9f3c519368 ___ token valido
+2023-03-15 10:53:32 INFO  LoginController:76 - 97e88239-40ab-435b-a514-c5c717880017 ___ token valido
+2023-03-15 10:53:32 INFO  LoginController:76 - 23877ea7-79b7-4164-af81-1b3b0893f1a8 ___ token valido
+2023-03-15 10:53:33 INFO  LoginController:76 - 818e1d6f-8284-4a01-b0d0-c065044fd483 ___ token valido
+2023-03-15 10:53:33 INFO  LoginController:76 - 45866bad-355d-45a8-9ef4-05c0018c96bd ___ token valido
+2023-03-15 10:53:33 INFO  LoginController:76 - 53aefbb8-5c29-4da7-900c-7f42717d21cd ___ token valido
+2023-03-15 10:53:33 INFO  LoginController:76 - ff848ecf-a296-4a16-85f2-2e5273cf65ab ___ token valido
+2023-03-15 10:53:33 INFO  LoginController:76 - 44e0f5c3-2e70-4a96-9d68-f769d7e6e1aa ___ token valido
+2023-03-15 10:53:33 INFO  LoginController:76 - 57b0d387-a731-4715-bca4-5b1bc08f8b05 ___ token valido
+2023-03-15 10:53:34 INFO  LoginController:76 - 7bb6e6ae-bf2d-4bc5-b194-0bb68e8a6b22 ___ token valido
+2023-03-15 10:53:34 INFO  LoginController:76 - 15b4ea61-75ac-4c92-a626-df1bece9546e ___ token valido
+2023-03-15 10:53:34 INFO  LoginController:76 - 43664f6c-4c7f-4a51-8843-dc792e51b82f ___ token valido
+2023-03-15 10:53:34 INFO  LoginController:76 - 1f86d2f1-8bc2-4440-ac76-78fcceac7284 ___ token valido
+2023-03-15 10:53:34 INFO  LoginController:76 - c6ccfad2-c68a-4231-93cc-dba82fafcfc9 ___ token valido
+2023-03-15 10:53:34 INFO  LoginController:76 - 38d51f10-79c6-476d-ae90-ef0b0d3a66e7 ___ token valido
+2023-03-15 10:53:35 INFO  LoginController:76 - 9cb2f489-f22a-44cc-8230-9f1256c1d1e6 ___ token valido
+2023-03-15 10:53:35 INFO  LoginController:76 - a4e78b3e-8cce-4832-8a6e-71e4c764a40b ___ token valido
+2023-03-15 10:53:35 INFO  LoginController:76 - 69b225d3-52f9-4ede-a68c-d17aed8eca33 ___ token valido
+2023-03-15 10:53:35 INFO  LoginController:76 - 3ae87776-e5b3-4d9b-ab16-6d9b3ceee7b6 ___ token valido
+2023-03-15 10:53:36 INFO  LoginController:76 - ab82c595-974a-4618-9e50-defbb4898759 ___ token valido
+2023-03-15 10:53:36 INFO  LoginController:76 - 9a3a02b6-53c9-4b3e-8f81-342a73c25fbe ___ token valido
+2023-03-15 10:53:36 INFO  LoginController:76 - 06ebfec2-d1cc-4b0c-8be2-7550b62bba16 ___ token valido
+2023-03-15 10:53:36 INFO  LoginController:76 - c65ba0f1-1ae5-4766-8eb9-6b055113c3fd ___ token valido
+2023-03-15 10:53:36 INFO  LoginController:76 - 200af6d1-a27a-4e7b-9faa-d2281e7a52f8 ___ token valido
+2023-03-15 10:53:36 INFO  LoginController:76 - 7b7584f3-d8ac-4ab3-b016-e169f6adb1fa ___ token valido
+2023-03-15 11:03:16 INFO  LoginController:76 - 08fe9f32-ab69-4f00-b0c4-08589b54059a ___ token valido
+2023-03-15 11:03:16 INFO  LoginController:76 - 613ae664-3ede-431c-a6fa-cb30e1fc62d2 ___ token valido
+2023-03-15 11:03:17 INFO  LoginController:76 - b6f75f42-20ae-464e-bb08-ade3ac0692fb ___ token valido
+2023-03-15 11:03:17 INFO  LoginController:76 - 662b3c14-c708-4684-87cc-7a6a1863cf68 ___ token valido
+2023-03-15 11:03:17 INFO  LoginController:76 - a11860e1-473a-48fd-930c-f3b7820cc58a ___ token valido
+2023-03-15 11:03:17 INFO  LoginController:76 - d3895fd4-e238-4735-8512-125ce93f231b ___ token valido
+2023-03-15 11:03:17 INFO  LoginController:76 - 959c8524-c3de-44e0-83d5-7acc991173b0 ___ token valido
+2023-03-15 11:03:17 INFO  LoginController:76 - 615c23e5-89a3-49f9-96c6-94262f62b825 ___ token valido
+2023-03-15 11:03:18 INFO  LoginController:76 - aa9f42a3-417b-4207-8a02-520c9d887bac ___ token valido
+2023-03-15 11:03:18 INFO  LoginController:76 - 6d53a4e2-a5bf-469a-ae88-5f4e30080d3a ___ token valido
+2023-03-15 11:03:18 INFO  LoginController:76 - f31d325b-ed38-4c89-90bc-c3c99cb272a4 ___ token valido
+2023-03-15 11:03:18 INFO  LoginController:76 - 15cebf49-b4be-4495-b560-704ee84985de ___ token valido
+2023-03-15 11:03:18 INFO  LoginController:76 - 4c7432c2-b0d7-4bf8-aec5-9e5173d55496 ___ token valido
+2023-03-15 11:03:18 INFO  LoginController:76 - 3cc00864-26d8-4410-884c-98fb6378198b ___ token valido
+2023-03-15 11:03:18 INFO  LoginController:76 - 2c06a2df-3125-4532-9c6e-779b38eac78b ___ token valido
+2023-03-15 11:03:18 INFO  LoginController:76 - 57c43bed-fcdb-4764-b04c-086bcf70efe7 ___ token valido
+2023-03-15 11:03:19 INFO  LoginController:76 - 4d96e7ae-7eb7-40ef-84a4-ecb212be8265 ___ token valido
+2023-03-15 11:03:19 INFO  LoginController:76 - 23914e1d-9d06-446e-ba91-06ac7fd55ed4 ___ token valido
+2023-03-15 11:03:19 INFO  LoginController:76 - 7906b7d5-36bf-49c5-bff2-e3df8efe3b89 ___ token valido
+2023-03-15 11:03:19 INFO  LoginController:76 - ea02c9d1-aabe-47fe-a6ae-8c5ea885d2e6 ___ token valido
+2023-03-15 11:03:19 INFO  LoginController:76 - 7fa13be8-be77-464f-8cf0-b926f29d6897 ___ token valido
+2023-03-15 11:03:19 INFO  LoginController:76 - a84e5b45-482e-49bd-82ee-d71e46294659 ___ token valido
+2023-03-15 11:03:20 INFO  LoginController:76 - 75fe9c4d-12e2-44b7-9fc1-5c4c0f1413ff ___ token valido
+2023-03-15 11:03:20 INFO  LoginController:76 - 695321c5-bee8-4a9e-81db-d50415fb75e8 ___ token valido
+2023-03-15 11:03:20 INFO  LoginController:76 - 61bc47b8-da50-42f2-948f-46dd3d2941c9 ___ token valido
+2023-03-15 11:03:20 INFO  LoginController:76 - 84928a06-c7f2-4a13-bc34-e6452ea7a369 ___ token valido
+2023-03-15 11:03:21 INFO  LoginController:76 - 51a672a5-60b9-4f20-b200-d60ede34fd9d ___ token valido
+2023-03-15 11:03:21 INFO  LoginController:76 - 4a4155c8-6697-4555-b1b8-e033d901452e ___ token valido
+2023-03-15 11:03:21 INFO  LoginController:76 - 3eab94d8-ba3e-49a1-94e7-1776371927be ___ token valido
+2023-03-15 11:03:21 INFO  LoginController:76 - eec47d63-bd5c-4208-beca-f8ce468ab0ad ___ token valido
+2023-03-15 11:03:23 INFO  LoginController:76 - bc2be126-10fd-4655-a615-80d31d5cde69 ___ token valido
+2023-03-15 11:03:23 INFO  LoginController:76 - 9e288a3e-7f64-44b3-a33b-2da64c184206 ___ token valido
+2023-03-15 11:06:38 INFO  LoginController:76 - 688bd72b-6640-4ce9-9836-25706ad26916 ___ token valido
+2023-03-15 11:06:38 INFO  LoginController:76 - 1efac14e-4ccd-4f5d-a40a-762b010d224a ___ token valido
+2023-03-15 11:06:40 INFO  LoginController:77 - 6f5f7bb6-8afe-4062-b355-71729e8355f7 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:06:40 INFO  LoginController:76 - a2061a70-842f-4b36-bf96-0f454543c6ee ___ token valido
+2023-03-15 11:06:40 INFO  LoginController:77 - 888fd591-e68f-4005-a957-8ca57978b2b7 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:06:40 INFO  LoginController:76 - 24affd34-f09b-4133-92ad-f32c2b625948 ___ token valido
+2023-03-15 11:06:46 INFO  LoginController:76 - 1d5b475a-1204-487c-84b8-eb3bd36a5fca ___ token valido
+2023-03-15 11:06:46 INFO  LoginController:76 - a098fa68-d988-419f-a526-abca17e09d06 ___ token valido
+2023-03-15 11:06:47 INFO  LoginController:76 - 7f1e0c50-cb88-4420-810c-d91064b09aac ___ token valido
+2023-03-15 11:06:47 INFO  LoginController:76 - 4bbf888e-eff9-4418-bea0-5de87d1a52d8 ___ token valido
+2023-03-15 11:06:47 INFO  LoginController:76 - b7d0d633-577d-415d-b579-8183b94f4142 ___ token valido
+2023-03-15 11:06:47 INFO  LoginController:76 - 5f35f3f3-bd27-4876-a4b0-961dc9fec08f ___ token valido
+2023-03-15 11:06:51 INFO  LoginController:76 - 96904a6c-1893-4bab-a86c-fdeba8696f05 ___ token valido
+2023-03-15 11:06:51 INFO  LoginController:76 - 733c2552-7f3e-4cbc-8440-7059fedc9404 ___ token valido
+2023-03-15 11:07:58 INFO  LoginController:76 - ea052821-4d60-497c-9649-40b7df1a39d3 ___ token valido
+2023-03-15 11:07:58 INFO  LoginController:76 - 94848ab2-d33a-45ba-840b-a63da4fc58b3 ___ token valido
+2023-03-15 11:08:05 INFO  LoginController:76 - 233b9ae9-7d78-41c6-9a40-4c0b88217ca6 ___ token valido
+2023-03-15 11:08:05 INFO  LoginController:76 - 3b94c42b-70bf-426e-a041-07245b254dac ___ token valido
+2023-03-15 11:08:06 INFO  LoginController:76 - c7349fb8-0fba-4729-9000-36f6769206d1 ___ token valido
+2023-03-15 11:08:06 INFO  LoginController:76 - 330e45db-595d-4217-9561-5fe7f14608ee ___ token valido
+2023-03-15 11:08:09 INFO  LoginController:76 - d968cb34-94b8-4f95-83f9-57903718abfb ___ token valido
+2023-03-15 11:08:09 INFO  LoginController:76 - 2bc9b09d-b818-4ce8-8c97-a71776521440 ___ token valido
+2023-03-15 11:08:11 INFO  LoginController:76 - cc5e9484-3eac-4f68-995f-0a688006e2fe ___ token valido
+2023-03-15 11:08:11 INFO  LoginController:76 - 3ab20bd3-3e6b-4b6d-a161-0a802cfad2e0 ___ token valido
+2023-03-15 11:08:11 INFO  LoginController:159 - d70d51f5-75c7-4023-8171-3ed23b777a84 ___ file upload stream buffer success
+2023-03-15 11:08:11 INFO  LoginController:115 - d70d51f5-75c7-4023-8171-3ed23b777a84 ___ file upload process success
+2023-03-15 11:08:11 INFO  LoginController:72 - ecaefbfa-11f1-4e01-bb41-2e8d69b2d40d ___ action drive upload: SUCCESS
+2023-03-15 11:08:11 INFO  LoginController:77 - 6350cd42-b68b-4979-aefe-5a28c65828b0 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:08:14 INFO  LoginController:76 - 4397ce64-3d7f-4c7c-a95b-c06d374015f5 ___ token valido
+2023-03-15 11:08:14 INFO  LoginController:72 - 0cc517b1-0b47-424e-816a-56e5f8263b6f ___ action drive download: SUCCESS
+2023-03-15 11:08:14 INFO  LoginController:76 - 0b18d491-54d9-4178-a137-d504efc42adb ___ token valido
+2023-03-15 11:08:16 INFO  LoginController:76 - c079342b-a6c3-4c6c-a964-d36fd6273f69 ___ token valido
+2023-03-15 11:08:16 INFO  LoginController:77 - 6b9de811-cd84-4215-adc3-0d31bb8f1fb1 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:08:16 INFO  LoginController:77 - e6ee74f1-9757-4192-b36d-857989518fae ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:08:16 INFO  LoginController:76 - a7c41e6f-3e2f-418b-a2ed-fe394bd3b889 ___ token valido
+2023-03-15 11:08:18 INFO  LoginController:72 - 3af5210d-13ee-4d09-80bc-b994722fb043 ___ action drive download: SUCCESS
+2023-03-15 11:08:18 INFO  LoginController:76 - 2003dcb6-e1aa-4588-9444-6eb7f8964b31 ___ token valido
+2023-03-15 11:08:18 INFO  LoginController:76 - 68778ed4-b152-4618-a53f-57df1492420b ___ token valido
+2023-03-15 11:08:19 INFO  LoginController:76 - de8c071a-6ad5-4f75-9799-8d8af62227fc ___ token valido
+2023-03-15 11:08:19 INFO  LoginController:76 - 77566d13-d427-46f5-9bb6-70cca2931daf ___ token valido
+2023-03-15 11:08:23 INFO  LoginController:76 - c221f771-b748-4f05-abad-529b38554f6d ___ token valido
+2023-03-15 11:08:23 INFO  LoginController:76 - a8dd09bd-fe78-480c-a2fc-b45015c4ebfa ___ token valido
+2023-03-15 11:08:24 INFO  LoginController:72 - f13943f5-5ea6-4124-b52e-3f894d9604d6 ___ action drive upload: FAIL
+2023-03-15 11:08:24 INFO  LoginController:77 - 9ed9bc77-8e2a-4ea4-a2b2-238c2623c16e ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:08:24 INFO  LoginController:76 - cb93d88e-7804-4c96-aa7a-7601062de0e0 ___ token valido
+2023-03-15 11:08:24 INFO  LoginController:76 - 29c9d150-dd26-496a-bf31-2b47d5fab8cc ___ token valido
+2023-03-15 11:08:25 INFO  LoginController:76 - 81af4f77-d7a1-4513-8f31-b44956b512f5 ___ token valido
+2023-03-15 11:08:25 INFO  LoginController:76 - d0cdb42c-59ca-4302-bfb4-39f6197a259a ___ token valido
+2023-03-15 11:08:28 INFO  LoginController:76 - 268c31ea-4bca-47c4-8f47-0b80a24e5dad ___ token valido
+2023-03-15 11:08:28 INFO  LoginController:76 - 1110ed77-4776-4502-80fa-e8c7426a82c3 ___ token valido
+2023-03-15 11:08:30 INFO  LoginController:76 - b2321a33-b06b-4e92-a2a6-d8b8d8b9b06d ___ token valido
+2023-03-15 11:08:30 INFO  LoginController:76 - 3f71387a-3055-4738-a4ab-4c11db5a6699 ___ token valido
+2023-03-15 11:08:39 INFO  LoginController:76 - b9828793-c02b-4115-ae09-fc5d65c9abdc ___ token valido
+2023-03-15 11:08:39 INFO  LoginController:76 - 9df9912a-237c-483e-a02d-45a50f5e8d36 ___ token valido
+2023-03-15 11:08:40 INFO  LoginController:76 - 20d019a6-0bd6-422d-adf8-bbb7cc4cfcfa ___ token valido
+2023-03-15 11:08:40 INFO  LoginController:76 - 21fbf4bf-3ed0-484d-9017-2585924bee40 ___ token valido
+2023-03-15 11:08:41 INFO  LoginController:76 - a26f8374-b6ff-401a-8d79-a510cc563920 ___ token valido
+2023-03-15 11:08:41 INFO  LoginController:76 - 1d30d45b-b0cf-4a72-a01c-4d49b58d0c7e ___ token valido
+2023-03-15 11:08:42 INFO  LoginController:76 - e113274c-dc95-49d9-a21e-fb41b3ecb71f ___ token valido
+2023-03-15 11:08:42 INFO  LoginController:76 - 6e3c10cb-c850-416a-bd0f-fe6fd3d60a9b ___ token valido
+2023-03-15 11:08:42 INFO  LoginController:76 - 5a372d57-56da-467d-902b-48d5c5bd2467 ___ token valido
+2023-03-15 11:08:42 INFO  LoginController:76 - b861dcf4-611b-4256-8e34-dc6b04ec32bc ___ token valido
+2023-03-15 11:08:43 INFO  LoginController:76 - 05bad0dc-3115-4d2c-b33d-cee8d0c0ef09 ___ token valido
+2023-03-15 11:08:43 INFO  LoginController:76 - 26c96197-a1ff-49cb-9bb6-8783dc9fca60 ___ token valido
+2023-03-15 11:08:43 INFO  LoginController:76 - d1972996-408b-434d-829d-b282f5251cfb ___ token valido
+2023-03-15 11:08:43 INFO  LoginController:76 - 2e4e83c1-01ba-4d90-ac43-eb217a0d9e29 ___ token valido
+2023-03-15 11:10:17 INFO  LoginController:77 - d66012c2-60b2-46b0-949a-f4876c4acdc5 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:10:17 INFO  LoginController:77 - 099bd38e-0986-4e47-85fe-13bac753333c ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:10:17 INFO  LoginController:76 - 671a5a4b-356c-4a71-a7af-5e2a12cbe161 ___ token valido
+2023-03-15 11:10:17 INFO  LoginController:76 - d967da8f-7087-4cdc-b968-30573dc046a5 ___ token valido
+2023-03-15 11:10:18 INFO  LoginController:76 - 1ad91937-c7ee-47cb-8de0-c11192f2b33f ___ token valido
+2023-03-15 11:10:18 INFO  LoginController:76 - 5aec3d5b-9e45-41c8-bd2c-fb410941496e ___ token valido
+2023-03-15 11:10:19 INFO  LoginController:76 - e1c1903c-11dd-4137-884b-25f86a1ceaad ___ token valido
+2023-03-15 11:10:19 INFO  LoginController:76 - 4c8c70be-8213-4aac-9b3f-0f607b3286e5 ___ token valido
+2023-03-15 11:10:21 INFO  LoginController:76 - c6a3df2d-08f6-414e-9996-2d065bdd097b ___ token valido
+2023-03-15 11:10:21 INFO  LoginController:76 - b7bcd048-97af-491f-afae-5cc71b5786cc ___ token valido
+2023-03-15 11:13:48 INFO  LoginController:76 - 01e133e4-378a-433b-9299-b4e2787330b3 ___ token valido
+2023-03-15 11:13:48 INFO  LoginController:76 - e6112657-bede-4e27-b7c9-9b2a0354acf7 ___ token valido
+2023-03-15 11:13:52 INFO  LoginController:76 - ce1c1b12-b81b-47d3-9bf0-29e5c05c20b0 ___ token valido
+2023-03-15 11:13:52 INFO  LoginController:76 - 94ba4ac7-f70b-4a53-8105-8ee94234100a ___ token valido
+2023-03-15 11:13:52 INFO  LoginController:76 - c96922f8-f97d-47d7-9c61-dcd8eb63acc1 ___ token valido
+2023-03-15 11:13:52 INFO  LoginController:76 - 871d0160-bb42-4560-a8b1-1858b3e524d4 ___ token valido
+2023-03-15 11:14:59 INFO  LoginController:76 - 30418c1d-1453-4d04-ad89-024629931858 ___ token valido
+2023-03-15 11:14:59 INFO  LoginController:76 - 0b8d906d-46a3-4692-a738-058eea8e17ff ___ token valido
+2023-03-15 11:15:15 INFO  LoginController:76 - ce745d6e-206d-4fb7-888b-37559bd2ae76 ___ token valido
+2023-03-15 11:15:15 INFO  LoginController:76 - cc67c784-397b-48bc-9472-5a35e8c84096 ___ token valido
+2023-03-15 11:15:15 INFO  LoginController:76 - c202752b-fb57-4ef6-bec9-c3e0a73ebd6e ___ token valido
+2023-03-15 11:15:15 INFO  LoginController:76 - 5885af71-ad24-4366-82ba-0a9d44b29763 ___ token valido
+2023-03-15 11:15:15 INFO  LoginController:76 - 64a3f54c-6d5b-4cab-9ed4-4795b2702a6b ___ token valido
+2023-03-15 11:15:15 INFO  LoginController:76 - 89aa323d-1cf7-42e9-9d45-8786a46a8659 ___ token valido
+2023-03-15 11:15:16 INFO  LoginController:76 - 0648eb35-8080-43d8-93bc-4e50dddaa978 ___ token valido
+2023-03-15 11:15:16 INFO  LoginController:76 - b71d59bb-0eb7-480f-9036-54fb9f0d793a ___ token valido
+2023-03-15 11:15:16 INFO  LoginController:76 - 5f03824a-9b08-400d-b2ea-1bec4121954c ___ token valido
+2023-03-15 11:15:16 INFO  LoginController:76 - 324bb98a-a009-4f12-9972-544fcf0809c7 ___ token valido
+2023-03-15 11:16:07 INFO  LoginController:76 - 941666ef-54a1-4d70-85c8-a723134bdea3 ___ token valido
+2023-03-15 11:16:07 INFO  LoginController:76 - f73b2ca0-a35a-4e10-87d4-0dd1389eb082 ___ token valido
+2023-03-15 11:16:07 INFO  LoginController:76 - 0d3adc09-d5b9-45fd-8c1b-59fc3e7706e5 ___ token valido
+2023-03-15 11:16:07 INFO  LoginController:76 - 8d577ff0-2de3-467b-888f-773ea1648b9e ___ token valido
+2023-03-15 11:16:07 INFO  LoginController:76 - 0d9fd502-5dd2-4720-80a9-62b75fc98fae ___ token valido
+2023-03-15 11:16:07 INFO  LoginController:76 - 4b94174b-8ce6-4a6e-9217-1f9b20878d47 ___ token valido
+2023-03-15 11:16:08 INFO  LoginController:76 - b4d48731-edb5-4d35-a3dd-edf65a04b68f ___ token valido
+2023-03-15 11:16:08 INFO  LoginController:76 - 40bdeb18-9856-4807-8d29-a5a2fd582611 ___ token valido
+2023-03-15 11:16:08 INFO  LoginController:76 - ad5717d8-639b-4339-b7dc-0d287e0bbd53 ___ token valido
+2023-03-15 11:16:08 INFO  LoginController:76 - 7726b660-1359-4444-b7d0-b644124584f2 ___ token valido
+2023-03-15 11:16:41 INFO  LoginController:76 - 93453c2e-26cd-4f63-92e8-8ab829d424e2 ___ token valido
+2023-03-15 11:16:41 INFO  LoginController:76 - 84756b6a-0259-40b8-b182-5b59dfa3f789 ___ token valido
+2023-03-15 11:21:26 INFO  LoginController:76 - 3b8c7c75-ec9d-40f3-b74a-68b394ce8ffe ___ token valido
+2023-03-15 11:21:26 INFO  LoginController:76 - caf8754c-6a34-4da7-aef6-6f3dab9e29e6 ___ token valido
+2023-03-15 11:21:26 INFO  LoginController:76 - 8168da32-5532-45bb-b67b-75fa15967012 ___ token valido
+2023-03-15 11:21:26 INFO  LoginController:76 - ad8171c1-ec8d-4b9d-a1a1-2cecd1610d81 ___ token valido
+2023-03-15 11:21:26 INFO  LoginController:76 - 50e6babc-3e1b-47da-aa06-4d31de64c6a1 ___ token valido
+2023-03-15 11:21:26 INFO  LoginController:76 - d6d5b6d9-1459-43a9-842c-204428329261 ___ token valido
+2023-03-15 11:21:27 INFO  LoginController:76 - 46afd689-e925-4bf5-828e-374d1da9f01a ___ token valido
+2023-03-15 11:21:27 INFO  LoginController:76 - 2a401c50-d638-409a-a793-48fdbd176887 ___ token valido
+2023-03-15 11:21:27 INFO  LoginController:76 - 07c3d41b-a24c-467c-980d-a9a5ae1064b6 ___ token valido
+2023-03-15 11:21:27 INFO  LoginController:76 - c787324a-5351-4958-8d42-b98965c0c977 ___ token valido
+2023-03-15 11:22:04 INFO  LoginController:76 - ff45cc7b-d512-4751-9de2-8e031a0e5607 ___ token valido
+2023-03-15 11:22:04 INFO  LoginController:76 - 00a4e96c-0405-4292-9a15-1ac631d27e0f ___ token valido
+2023-03-15 11:23:03 INFO  LoginController:76 - 7d61e779-8014-4928-aa72-6a0adf5f10aa ___ token valido
+2023-03-15 11:23:03 INFO  LoginController:76 - 7ba66680-c3de-418f-a89f-9d5af8ca67b3 ___ token valido
+2023-03-15 11:23:03 INFO  LoginController:72 - 764e197d-219e-400a-85f3-ffd73b014753 ___ action drive download: SUCCESS
+2023-03-15 11:23:04 INFO  LoginController:76 - 921d5503-35d8-4730-830b-111ca7e04ef2 ___ token valido
+2023-03-15 11:23:04 INFO  LoginController:76 - 4700faad-d166-4545-9640-1558437f4efd ___ token valido
+2023-03-15 11:23:07 INFO  LoginController:76 - 0e4e23f0-b926-4736-9cdf-276143b68990 ___ token valido
+2023-03-15 11:23:07 INFO  LoginController:76 - 09fb5c07-e552-444f-bee7-379866e68d87 ___ token valido
+2023-03-15 11:23:08 INFO  LoginController:72 - 2c7282b2-303f-41f4-bdc2-e36c72be608c ___ action drive upload: FAIL
+2023-03-15 11:23:08 INFO  LoginController:77 - 68c66712-3384-4f1e-8710-8f697c313826 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:08 INFO  LoginController:76 - b15d781c-e641-4149-8a04-0b785620f9a0 ___ token valido
+2023-03-15 11:23:08 INFO  LoginController:76 - d354cd02-f018-4268-82e8-0d0edb813178 ___ token valido
+2023-03-15 11:23:09 INFO  LoginController:76 - 628b4eca-7884-4476-9fc8-de71726c71b9 ___ token valido
+2023-03-15 11:23:09 INFO  LoginController:76 - 21f3595d-41ba-4b28-8bb5-bf79f021f0e5 ___ token valido
+2023-03-15 11:23:09 INFO  LoginController:77 - 6a952923-398b-4e16-8ca9-63c8089d44ca ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:10 INFO  LoginController:76 - d6e3a8be-407c-4903-a334-2fa3cc155e59 ___ token valido
+2023-03-15 11:23:10 INFO  LoginController:76 - f15315a3-1ebe-434c-8bd7-a03ec859a20f ___ token valido
+2023-03-15 11:23:13 INFO  LoginController:76 - 0183bb77-8a33-4fc5-b3c4-73df3fe5746b ___ token valido
+2023-03-15 11:23:13 INFO  LoginController:76 - 9d43126e-51dc-42b1-b800-6279de34e895 ___ token valido
+2023-03-15 11:23:13 INFO  LoginController:77 - 3b48a39d-42c9-4cd1-a67b-1c6acb6e775e ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:17 INFO  LoginController:77 - 0c4e29d6-b866-4ce6-b447-2018be4c88fa ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:17 INFO  LoginController:76 - 43c5fe5f-0ff2-41aa-a5bd-b7de6f63e85e ___ token valido
+2023-03-15 11:23:17 INFO  LoginController:77 - 42f872a6-4044-4e43-a93a-779517fc4b2f ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:17 INFO  LoginController:76 - c780b91b-c155-4eb3-835b-a73481cef7bd ___ token valido
+2023-03-15 11:23:17 INFO  LoginController:76 - b84b07e7-bc8d-401f-aecf-e2dfa3a6bd44 ___ token valido
+2023-03-15 11:23:17 INFO  LoginController:76 - 960de372-37e1-41d3-8d62-363d0d0cd78e ___ token valido
+2023-03-15 11:23:20 INFO  LoginController:76 - 0e5421a9-1c70-4b2b-b155-aa31b94b0fe5 ___ token valido
+2023-03-15 11:23:20 INFO  LoginController:76 - ebd3b25f-f1f4-4704-b0ef-97047cb44e2d ___ token valido
+2023-03-15 11:23:28 INFO  LoginController:77 - bc6de3ff-c2fe-49f4-bc13-763e433815bb ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:29 INFO  LoginController:159 - 246ccbc6-da19-4784-9a87-461ffa35caaf ___ file upload stream buffer success
+2023-03-15 11:23:29 INFO  LoginController:115 - 246ccbc6-da19-4784-9a87-461ffa35caaf ___ file upload process success
+2023-03-15 11:23:29 INFO  LoginController:77 - 6996bdb7-c8ce-4b6c-80c4-70e608326191 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:29 INFO  LoginController:72 - 9d769b87-2267-4ddc-8c54-0ef8ba41f640 ___ action drive upload: SUCCESS
+2023-03-15 11:23:31 INFO  LoginController:76 - 1a6737ea-b7cf-4b79-8f78-44b77f0907bb ___ token valido
+2023-03-15 11:23:31 INFO  LoginController:72 - 96f0c275-14e5-44e3-a37c-6772bb04df6b ___ action drive download: SUCCESS
+2023-03-15 11:23:31 INFO  LoginController:76 - c9051cec-fb88-48be-b6d4-3d2fcb92f15c ___ token valido
+2023-03-15 11:23:32 INFO  LoginController:76 - 017efa81-ed64-49dc-a9f0-0d42eb10e424 ___ token valido
+2023-03-15 11:23:32 INFO  LoginController:72 - dd1b8f64-4d2d-4c74-bc1a-9e4aec12d629 ___ action drive download: SUCCESS
+2023-03-15 11:23:32 INFO  LoginController:76 - d42f8827-15ad-4306-b788-a877ebf7e209 ___ token valido
+2023-03-15 11:23:34 INFO  LoginController:77 - ceca629f-dc98-4bfb-96de-44094f620760 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:34 INFO  LoginController:77 - 4b3105ac-a9bf-4d98-8afc-05b8d0abd398 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:23:34 INFO  LoginController:76 - c90d6f1d-41f9-4007-aa4c-55d6fc1f64f3 ___ token valido
+2023-03-15 11:23:34 INFO  LoginController:76 - 4650e1ce-8aa3-46b4-bf07-04fa4a1b7ca8 ___ token valido
+2023-03-15 11:23:36 INFO  LoginController:76 - 94213881-fa66-4290-985f-7c914163c667 ___ token valido
+2023-03-15 11:23:36 INFO  LoginController:76 - f35c867b-2b08-437c-a2ca-84f1c6fae42f ___ token valido
+2023-03-15 11:23:37 INFO  LoginController:76 - d7e8fc2c-0681-490e-8395-12d96b964c13 ___ token valido
+2023-03-15 11:23:37 INFO  LoginController:76 - f6c356dc-dbd1-463a-aabe-60be3d870bcb ___ token valido
+2023-03-15 11:23:39 INFO  LoginController:76 - 22488f7b-babf-4fea-94d8-dfb455bfd051 ___ token valido
+2023-03-15 11:23:39 INFO  LoginController:76 - 0c7454ab-def4-4950-a248-6a96f35bcb32 ___ token valido
+2023-03-15 11:25:35 INFO  LoginController:76 - 3984076f-2f11-4fcb-9995-cbed89a219f9 ___ token valido
+2023-03-15 11:25:35 INFO  LoginController:76 - 88b336f1-eb89-4c91-ad6d-e1796000abf3 ___ token valido
+2023-03-15 11:25:36 INFO  LoginController:76 - fd0d32a3-33cd-4792-9185-df9aec3202d7 ___ token valido
+2023-03-15 11:25:36 INFO  LoginController:76 - 4b11fe29-b1b4-4853-8460-f30d09d3d6fe ___ token valido
+2023-03-15 11:25:36 INFO  LoginController:76 - e93fbdb9-09c5-4221-98c4-219273a0ea1b ___ token valido
+2023-03-15 11:25:36 INFO  LoginController:76 - 8aad2f95-ac15-46c6-996b-a8b4e2576618 ___ token valido
+2023-03-15 11:27:41 INFO  LoginController:72 - f1012a06-e273-4224-a8e2-51b434354839 ___ action drive download: SUCCESS
+2023-03-15 11:27:42 INFO  LoginController:76 - 0af88c33-ecc3-4e2f-81c1-1f9850885458 ___ token valido
+2023-03-15 11:27:42 INFO  LoginController:76 - 5bfe44ab-c8b1-4aa4-8de6-61349d24ac13 ___ token valido
+2023-03-15 11:27:42 INFO  LoginController:76 - 5603d675-3f0d-40f7-8ce6-c086b6d3d17b ___ token valido
+2023-03-15 11:27:42 INFO  LoginController:72 - 0f7cd94f-68b5-44c6-952d-e28fb5b47daa ___ action drive download: SUCCESS
+2023-03-15 11:27:42 INFO  LoginController:76 - fdd76706-e060-4b4e-94e6-e279a51872f0 ___ token valido
+2023-03-15 11:27:43 INFO  LoginController:76 - ae85e96b-228a-4388-876b-88796961232e ___ token valido
+2023-03-15 11:27:43 INFO  LoginController:76 - 8e5bfe8b-79c1-4303-82e9-94895fbc5590 ___ token valido
+2023-03-15 11:27:46 INFO  LoginController:76 - e084f94d-2a71-493b-80b6-867a1eeda807 ___ token valido
+2023-03-15 11:27:46 INFO  LoginController:76 - 8b477eae-8093-4e53-adb5-e70756396930 ___ token valido
+2023-03-15 11:27:55 INFO  LoginController:77 - c36589c5-45d6-4857-94f9-f8494e20f41c ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:27:55 INFO  LoginController:159 - 624dc1b1-754b-429c-9920-44bb0bc3f89a ___ file upload stream buffer success
+2023-03-15 11:27:55 INFO  LoginController:115 - 624dc1b1-754b-429c-9920-44bb0bc3f89a ___ file upload process success
+2023-03-15 11:27:55 INFO  LoginController:77 - c02a3b20-969c-490a-b778-5ff38fb2bad3 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:27:55 INFO  LoginController:72 - 236b860b-0ad7-4c9e-8d73-4d711806f73c ___ action drive upload: SUCCESS
+2023-03-15 11:27:59 INFO  LoginController:76 - 1a019a35-3522-47af-9844-0f70e5410be1 ___ token valido
+2023-03-15 11:27:59 INFO  LoginController:76 - f8dbcb86-d5f9-4264-8c73-35fe47d717cf ___ token valido
+2023-03-15 11:27:59 INFO  LoginController:72 - a4232c01-9e78-406e-89e7-ce653ccfb17b ___ action drive download: SUCCESS
+2023-03-15 11:28:03 INFO  LoginController:72 - cc947af5-88e7-4e35-b62d-ec1df3a30d56 ___ action drive download: SUCCESS
+2023-03-15 11:28:03 INFO  LoginController:76 - 87cdc2dd-2c09-45df-b3f3-5a29e0a808b5 ___ token valido
+2023-03-15 11:28:03 INFO  LoginController:76 - 67b209dd-dd5a-43ff-afa3-1070000acf97 ___ token valido
+2023-03-15 11:28:05 INFO  LoginController:76 - 615d0723-0a68-47e5-8588-81dd3862116d ___ token valido
+2023-03-15 11:28:05 INFO  LoginController:76 - 3113adbe-3fd6-469f-9b75-3d4daaa03dd8 ___ token valido
+2023-03-15 11:28:06 INFO  LoginController:76 - a69d521e-b518-4676-af74-fe3ea3707a70 ___ token valido
+2023-03-15 11:28:06 INFO  LoginController:76 - 609f52cd-7473-4f1a-af6e-c32637aa19a6 ___ token valido
+2023-03-15 11:28:07 INFO  LoginController:76 - 6e747c90-fb6c-438b-a809-70bb0f2a904d ___ token valido
+2023-03-15 11:28:07 INFO  LoginController:76 - 44bb13d4-2618-491b-835a-bb7d27074918 ___ token valido
+2023-03-15 11:28:56 INFO  LoginController:76 - 335ebd41-0618-4dbc-af81-4fbe41a74b5e ___ token valido
+2023-03-15 11:28:56 INFO  LoginController:76 - a01826fe-ac56-4ef0-83e4-5912f534451d ___ token valido
+2023-03-15 11:28:56 INFO  LoginController:72 - 2da994bc-d9d5-451e-bdde-2d346fdf6ffd ___ action drive download: SUCCESS
+2023-03-15 11:28:57 INFO  LoginController:76 - e8987141-8e72-4068-a4c1-7a90178ddf6b ___ token valido
+2023-03-15 11:28:57 INFO  LoginController:76 - d27faf43-0f32-4f88-84b6-8e4068f8b6bf ___ token valido
+2023-03-15 11:28:58 INFO  LoginController:76 - e1eb6c5a-3408-4522-8f19-dcd20b7d82b5 ___ token valido
+2023-03-15 11:28:58 INFO  LoginController:76 - 42b765b3-082f-4c97-9fd0-bcc825230114 ___ token valido
+2023-03-15 11:31:51 INFO  LoginController:76 - 2c072741-c9d4-488e-842b-208280035588 ___ token valido
+2023-03-15 11:31:51 INFO  LoginController:76 - 6c61ee32-047a-4341-a472-85ac3f1ad56d ___ token valido
+2023-03-15 11:31:56 INFO  LoginController:72 - 32669de9-e8e9-42d5-a310-78eebee27d65 ___ action drive delete: SUCCESS
+2023-03-15 11:31:56 INFO  LoginController:77 - c8d29570-c246-4e8c-b655-93d014943472 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:31:56 INFO  LoginController:76 - 96f10fe4-27b7-4d3d-adb3-5ffe006288f6 ___ token valido
+2023-03-15 11:31:56 INFO  LoginController:76 - cb100c5d-c094-46e9-883a-a80ad195045d ___ token valido
+2023-03-15 11:31:56 INFO  LoginController:234 - d02486c2-282a-4fac-a32f-18c41a957498 ___ file delete success200000000B (7) (4) (1) (1).txt
+2023-03-15 11:32:00 INFO  LoginController:77 - e8d45557-f0b6-4ccf-a56b-53374c339461 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:32:00 INFO  LoginController:76 - f58eacb6-cd8f-4c15-b051-8adf6a318ca3 ___ token valido
+2023-03-15 11:32:00 INFO  LoginController:77 - 7b213181-d9cd-4f43-90e8-d55f17993ca7 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:32:00 INFO  LoginController:76 - 0d31cef9-cacf-491c-94ba-35a5e341e17c ___ token valido
+2023-03-15 11:32:01 INFO  LoginController:76 - f1ca1219-bae8-48d7-a26b-c49a69e9a546 ___ token valido
+2023-03-15 11:32:01 INFO  LoginController:76 - 3bd6a41b-49b6-46f7-9292-c7786d3df9c7 ___ token valido
+2023-03-15 11:32:01 INFO  LoginController:72 - 35612d97-51be-479d-831b-4b87bfa225e3 ___ action drive download: SUCCESS
+2023-03-15 11:32:02 INFO  LoginController:76 - 71cca999-33f6-4ef4-b76f-67d723f200f7 ___ token valido
+2023-03-15 11:32:02 INFO  LoginController:76 - 577ffcbc-1b65-4e9a-adfa-0548ea18d9e1 ___ token valido
+2023-03-15 11:32:05 INFO  LoginController:76 - faea1b15-3169-4d4d-87f3-aca0eb9caedb ___ token valido
+2023-03-15 11:32:05 INFO  LoginController:76 - 8bf5ea71-13a0-4d07-a5ae-fe4e59f2d810 ___ token valido
+2023-03-15 11:32:19 INFO  LoginController:77 - da080900-09e4-473a-be39-0f86b8e739ab ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:32:20 INFO  LoginController:159 - a712d010-e279-4ecf-a4cd-5d198db1b74f ___ file upload stream buffer success
+2023-03-15 11:32:20 INFO  LoginController:115 - a712d010-e279-4ecf-a4cd-5d198db1b74f ___ file upload process success
+2023-03-15 11:32:20 INFO  LoginController:77 - 2d2dd3b2-0862-4f80-ada2-d41985b45298 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 11:32:20 INFO  LoginController:72 - 0b761f72-f88d-4780-8631-9edb3a7f6fca ___ action drive upload: SUCCESS
+2023-03-15 11:32:27 INFO  LoginController:76 - de389768-e817-4bcd-a90b-edf2b18bcbae ___ token valido
+2023-03-15 11:32:27 INFO  LoginController:72 - 604bbefa-1dc8-4bca-9ce6-7fa32b720468 ___ action drive download: SUCCESS
+2023-03-15 11:32:27 INFO  LoginController:76 - 57a6aca2-5d7f-4f18-b167-b018859f19be ___ token valido
+2023-03-15 11:32:28 INFO  LoginController:76 - 7410a312-6f98-4914-a688-c3e8813c3ebd ___ token valido
+2023-03-15 11:32:28 INFO  LoginController:76 - 77b4d961-b6ef-45f5-bd4f-1b27a4f21e44 ___ token valido
+2023-03-15 11:33:36 INFO  LoginController:76 - 9a81d9a1-a53b-488d-b778-0bcc4239fee3 ___ token valido
+2023-03-15 11:33:36 INFO  LoginController:76 - 60ad4251-dbbc-4690-91f9-ab4495da548d ___ token valido
+2023-03-15 11:33:40 INFO  LoginController:72 - 31aec046-849e-4601-99cc-4537b8827af2 ___ action drive download: SUCCESS
+2023-03-15 11:33:42 INFO  LoginController:76 - ea65f598-6c2f-4f4e-bba2-8bcd01d206f1 ___ token valido
+2023-03-15 11:33:42 INFO  LoginController:76 - 0691837b-34ec-4d07-aef1-78adfd0e965e ___ token valido
+2023-03-15 11:33:42 INFO  LoginController:72 - e6a1192b-10d1-4ecd-a77c-f41f7fd96cfa ___ action drive download: FAIL
+2023-03-15 11:33:42 INFO  LoginController:76 - ef72c1f6-6eb4-453a-857c-a4850214177c ___ token valido
+2023-03-15 11:33:42 INFO  LoginController:76 - b3c4a13e-d211-48b1-a01e-ace6a0da8c27 ___ token valido
+2023-03-15 11:33:43 INFO  LoginController:76 - 4bd10aa8-747d-4822-9e82-941c56b79de7 ___ token valido
+2023-03-15 11:33:43 INFO  LoginController:76 - 27709d1f-a329-493f-9775-4540d7eba591 ___ token valido
+2023-03-15 11:33:44 INFO  LoginController:76 - f8bd6ac0-89a6-4a37-ae0f-fb1e39227075 ___ token valido
+2023-03-15 11:33:44 INFO  LoginController:76 - e524a880-91e8-4903-8cbe-654217e3deda ___ token valido
+2023-03-15 11:33:45 INFO  LoginController:76 - 0139daa5-0c0a-478d-8189-1893d1a717b5 ___ token valido
+2023-03-15 11:33:45 INFO  LoginController:76 - a0c29ab6-0463-4fc2-9114-215a54053c2f ___ token valido
+2023-03-15 11:33:47 INFO  LoginController:76 - ee58ef1f-ab5d-4c03-abfa-dc7acccdf793 ___ token valido
+2023-03-15 11:33:47 INFO  LoginController:76 - c00ad181-1514-46de-83a4-a07c13859808 ___ token valido
+2023-03-15 11:33:47 INFO  LoginController:76 - 68a0778c-3ada-424c-bcb6-54a149d6f671 ___ token valido
+2023-03-15 11:33:47 INFO  LoginController:76 - 0d0f23cb-27aa-48ab-979d-8cddcdb31838 ___ token valido
+2023-03-15 11:37:24 INFO  LoginController:76 - 822b7fbd-8b1b-49d7-a7cd-ebe9a918febc ___ token valido
+2023-03-15 11:37:24 INFO  LoginController:76 - e2865ff7-19de-4316-a960-1610be7902f3 ___ token valido
+2023-03-15 11:37:25 INFO  LoginController:72 - d1e309e0-cabc-4a23-924e-a9736de3fa19 ___ action drive download: FAIL
+2023-03-15 11:37:25 INFO  LoginController:76 - 70c5bc8f-7b22-4524-85df-0640471494d9 ___ token valido
+2023-03-15 11:37:25 INFO  LoginController:76 - 0401e716-c35c-40ba-8806-c2c73b7b2fc2 ___ token valido
+2023-03-15 11:37:26 INFO  LoginController:76 - 705924b6-cde3-4b5a-9b5c-da992fc01a3c ___ token valido
+2023-03-15 11:37:26 INFO  LoginController:76 - 1b0ec083-15c7-4dde-a0e6-c2a3d242e373 ___ token valido
+2023-03-15 11:37:27 INFO  LoginController:76 - 2398a5fb-8ec8-46bb-8d47-620c4b229498 ___ token valido
+2023-03-15 11:37:27 INFO  LoginController:76 - e5bc6862-80ee-451a-95e2-cf751882fa08 ___ token valido
+2023-03-15 12:40:44 INFO  LoginController:76 - 14610fc6-d945-424f-9342-102eec23a389 ___ token valido
+2023-03-15 12:40:44 INFO  LoginController:77 - 9894b6ab-dda4-4af8-9dde-fa5195ffe32e ___ file list retrieve in directoryexampleuser29success
+2023-03-15 12:40:44 INFO  LoginController:76 - 61fdb505-0d5f-444c-a8eb-abb9655df48b ___ token valido
+2023-03-15 12:40:44 INFO  LoginController:77 - abb50183-60d4-4937-b093-0bcc9978ca21 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 12:40:45 INFO  LoginController:76 - 87ea92d2-f778-4f1f-b365-9b7a0675a748 ___ token valido
+2023-03-15 12:40:45 INFO  LoginController:76 - 0991237c-9c89-48ff-a29f-62f4e985e830 ___ token valido
+2023-03-15 12:40:47 INFO  LoginController:76 - 2219f04b-8afa-45cd-b7c0-88e8e8a28b68 ___ token valido
+2023-03-15 12:40:47 INFO  LoginController:76 - f8d931cb-7d70-49d0-a672-227c19dfd84a ___ token valido
+2023-03-15 12:40:48 INFO  LoginController:72 - 3675258f-4f49-4e5a-b46a-b0adaf5f3188 ___ action drive download: FAIL
+2023-03-15 12:40:48 INFO  LoginController:76 - 0eea5c6e-1ed0-41b3-a26c-3495e1ee552d ___ token valido
+2023-03-15 12:40:48 INFO  LoginController:76 - 0bc3bdda-e5e8-4945-be9d-60c6cc75302c ___ token valido
+2023-03-15 12:41:27 INFO  LoginController:76 - e010f605-b2e8-4b19-9a1a-a9709c4f886e ___ token valido
+2023-03-15 12:41:27 INFO  LoginController:76 - af99f4d6-a537-46c0-a1ff-c0c2eaa70a0d ___ token valido
+2023-03-15 12:41:27 INFO  LoginController:72 - 43853734-21a3-42fe-8818-0167ec7f347c ___ action drive download: SUCCESS
+2023-03-15 12:42:58 INFO  LoginController:76 - f65f0d2f-24d2-4ec9-b8d8-57060ca4dbf7 ___ token valido
+2023-03-15 12:42:58 INFO  LoginController:76 - 925898c5-8520-4d89-8ae6-8be2e080c3b3 ___ token valido
+2023-03-15 12:42:58 INFO  LoginController:72 - 8b15d6d2-f221-4709-98e0-682dce2ebbb2 ___ action drive download: SUCCESS
+2023-03-15 12:43:02 INFO  LoginController:76 - 34e29ab8-82b5-4775-ad82-66b3a4436f81 ___ token valido
+2023-03-15 12:43:02 INFO  LoginController:76 - a9a46aa3-06b2-4e2a-97ef-37e451c2b9b8 ___ token valido
+2023-03-15 12:43:04 INFO  LoginController:76 - 1370a1f5-a684-45dc-84f8-f07849bb4d24 ___ token valido
+2023-03-15 12:43:04 INFO  LoginController:76 - 1311c8e2-5355-4a0c-bb46-e5a2d6ef2d58 ___ token valido
+2023-03-15 12:43:05 INFO  LoginController:76 - 4a42a272-aa59-41f7-8785-016a913dcca1 ___ token valido
+2023-03-15 12:43:05 INFO  LoginController:76 - 10affe26-1c64-48cd-a2c1-0b9eb6b6965c ___ token valido
+2023-03-15 12:43:05 INFO  LoginController:76 - e33d93bf-2dee-4266-b2f2-d097fef47469 ___ token valido
+2023-03-15 12:43:05 INFO  LoginController:76 - 0550876d-bd78-4e7c-81bb-87e45348be13 ___ token valido
+2023-03-15 12:43:06 INFO  LoginController:76 - eebef8e2-6ad1-4b42-b0e5-d99ef8f18ac6 ___ token valido
+2023-03-15 12:43:06 INFO  LoginController:76 - 50450715-c993-40cc-9ba1-b39d6b75cdb1 ___ token valido
+2023-03-15 12:43:06 INFO  LoginController:76 - 48be43b0-edcb-43e3-811e-72c55bad5082 ___ token valido
+2023-03-15 12:43:06 INFO  LoginController:76 - 5e09d754-93f5-4c04-8f99-2c1a20dde6fe ___ token valido
+2023-03-15 12:43:06 INFO  LoginController:76 - a23af766-e20b-4606-8a48-312999533dcf ___ token valido
+2023-03-15 12:43:06 INFO  LoginController:76 - c7a86e69-dc39-4eaf-9b2f-6e640704d407 ___ token valido
+2023-03-15 12:43:07 INFO  LoginController:76 - 0f47e20f-157d-4067-98a9-d9d4fbc078e7 ___ token valido
+2023-03-15 12:43:07 INFO  LoginController:76 - fca1b793-928c-495d-8ee2-5288ee93a3dd ___ token valido
+2023-03-15 12:43:08 INFO  LoginController:76 - b13ed9f3-c2be-4052-9ac5-c819e0d266e0 ___ token valido
+2023-03-15 12:43:08 INFO  LoginController:76 - 35ae7d7a-3381-4f76-aec9-f3d04f4067d7 ___ token valido
+2023-03-15 12:43:08 INFO  LoginController:76 - 424c644d-acf6-4b3b-a830-08241757fa29 ___ token valido
+2023-03-15 12:43:08 INFO  LoginController:76 - 908d18e8-7f8e-41cf-99f2-d2977039ba30 ___ token valido
+2023-03-15 12:43:09 INFO  LoginController:76 - f88fd29a-2561-4516-a4ba-a4abdf741bcb ___ token valido
+2023-03-15 12:43:09 INFO  LoginController:76 - b6b55461-aaa7-40bf-a552-868051a6b21c ___ token valido
+2023-03-15 12:43:11 INFO  LoginController:76 - 09ec385a-ad8e-4c7c-8947-27e28f28c1ea ___ token valido
+2023-03-15 12:43:11 INFO  LoginController:76 - eb2955c0-9dab-48fa-a605-f652815be68f ___ token valido
+2023-03-15 12:43:11 INFO  LoginController:76 - 067bcb37-410c-45b5-877f-686827b83ba6 ___ token valido
+2023-03-15 12:43:11 INFO  LoginController:77 - a5e4f515-3128-4af8-8da5-343bbede348a ___ file list retrieve in directoryexampleuser29success
+2023-03-15 12:43:11 INFO  LoginController:76 - b260d762-752e-41cb-acb9-f3e06fabd830 ___ token valido
+2023-03-15 12:43:11 INFO  LoginController:77 - bcca3df8-831f-4e8e-85ee-6ad5c2277547 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 12:43:13 INFO  LoginController:76 - b1f6a27e-44f7-4f7a-ac3b-15cb679ea0bc ___ token valido
+2023-03-15 12:43:13 INFO  LoginController:76 - e32af385-c7b9-4791-8774-760914b0ecb1 ___ token valido
+2023-03-15 12:44:24 INFO  LoginController:76 - 872515d6-b69e-4b3c-9b96-929c6e375381 ___ token valido
+2023-03-15 12:44:24 INFO  LoginController:76 - 7c73465d-5d17-4e28-b8be-8dea612732eb ___ token valido
+2023-03-15 12:44:25 INFO  LoginController:76 - 71ec4f7e-725b-4ce2-b8ac-8b19104b4cdd ___ token valido
+2023-03-15 12:44:25 INFO  LoginController:76 - 9c426aef-2c37-4059-a8ed-f2b40e3b15b1 ___ token valido
+2023-03-15 12:44:26 INFO  LoginController:76 - 7fcae63e-99f5-4291-9af0-04673abc6703 ___ token valido
+2023-03-15 12:44:26 INFO  LoginController:76 - 3a2ab11c-89ef-420b-96d6-31af5173bf0c ___ token valido
+2023-03-15 12:44:26 INFO  LoginController:72 - be29a1e1-37f1-456f-be2d-24676223ae66 ___ action drive download: SUCCESS
+2023-03-15 12:44:27 INFO  LoginController:76 - b9d11de9-f798-4f1e-99e6-6bbff2eea623 ___ token valido
+2023-03-15 12:44:27 INFO  LoginController:76 - 806672a9-0037-4f2c-b377-0da3b8ee44dd ___ token valido
+2023-03-15 12:44:44 INFO  LoginController:76 - 8198eeee-7519-4d37-85c5-63505db72364 ___ token valido
+2023-03-15 12:44:44 INFO  LoginController:76 - 5a3fe67a-a18a-43ef-b139-c660fabce3f3 ___ token valido
+2023-03-15 12:44:45 INFO  LoginController:76 - 76cad834-8cfb-42dc-96c3-52f2c08fa8eb ___ token valido
+2023-03-15 12:44:45 INFO  LoginController:76 - 48d754b1-81c6-4275-879d-604b5e6aa776 ___ token valido
+2023-03-15 12:44:45 INFO  LoginController:72 - 94be551c-2b7a-4ff5-9f80-fbee8f861a71 ___ action drive download: SUCCESS
+2023-03-15 12:45:45 INFO  LoginController:76 - 5e1d250e-0b71-46ae-9f17-4de4dca79cbe ___ token valido
+2023-03-15 12:45:45 INFO  LoginController:72 - b5390cdf-2f21-4281-abb8-69d8a06ac2a3 ___ action drive download: SUCCESS
+2023-03-15 12:45:45 INFO  LoginController:76 - 92bd11e1-e3bf-4ed0-8e0f-66483e1ddd2e ___ token valido
+2023-03-15 12:45:47 INFO  LoginController:76 - 80cbc9b8-456a-4739-94f8-30b822fa9779 ___ token valido
+2023-03-15 12:45:47 INFO  LoginController:76 - 53260fc8-6f74-4e91-a5c4-1e5e96301fb4 ___ token valido
+2023-03-15 12:45:48 INFO  LoginController:76 - 9f5b94e4-092c-49c4-b5ce-8658019a75f8 ___ token valido
+2023-03-15 12:45:48 INFO  LoginController:76 - cb0420ee-0453-4db9-b33b-47824b93f15e ___ token valido
+2023-03-15 12:45:48 INFO  LoginController:76 - feea1e57-3695-49c1-a3f7-cddc57c25d0a ___ token valido
+2023-03-15 12:45:48 INFO  LoginController:76 - 51d35096-7571-4685-b55b-7d8f7b62a1a0 ___ token valido
+2023-03-15 12:45:49 INFO  LoginController:76 - 4eab5830-b3ea-4b39-b3da-e109c37c0d0f ___ token valido
+2023-03-15 12:45:49 INFO  LoginController:76 - 4c684381-132a-40cb-88e0-796bd6097364 ___ token valido
+2023-03-15 12:45:49 INFO  LoginController:76 - 3af60f38-07ff-40da-9afa-8b064428e390 ___ token valido
+2023-03-15 12:45:49 INFO  LoginController:76 - 6f8cfd00-ca22-454d-a798-358eb3a10139 ___ token valido
+2023-03-15 12:45:49 INFO  LoginController:76 - 0bfeeb1d-becf-4984-967e-03b427946b32 ___ token valido
+2023-03-15 12:45:49 INFO  LoginController:76 - cec39e55-fc48-4057-8915-efb7e3b31146 ___ token valido
+2023-03-15 12:45:50 INFO  LoginController:76 - b7ad3622-e980-4502-a906-962dfba65ca1 ___ token valido
+2023-03-15 12:45:50 INFO  LoginController:76 - c5e179c4-aac6-4dd4-bfdc-a182a83de30b ___ token valido
+2023-03-15 12:45:50 INFO  LoginController:76 - 0efe1d7b-7eec-4755-8529-5c033be5377a ___ token valido
+2023-03-15 12:45:50 INFO  LoginController:76 - f774b3cf-cbe8-4b03-be34-7e102bdb5d9f ___ token valido
+2023-03-15 12:45:51 INFO  LoginController:76 - b5d5397d-1233-4f29-bb20-f53622bcee3b ___ token valido
+2023-03-15 12:45:51 INFO  LoginController:76 - 796976fc-ee51-457b-b6d6-acb517ec5eb2 ___ token valido
+2023-03-15 12:45:51 INFO  LoginController:76 - 534dba80-81db-4820-9579-268db334c793 ___ token valido
+2023-03-15 12:45:51 INFO  LoginController:76 - 6d09403b-b3bd-497d-a620-7a0e838533a5 ___ token valido
+2023-03-15 12:46:57 INFO  LoginController:76 - 9b909116-63a7-446d-88ca-ecfeb4acb104 ___ token valido
+2023-03-15 12:46:57 INFO  LoginController:76 - 6c02d147-16ae-45a9-b538-a53c001c65ed ___ token valido
+2023-03-15 12:46:57 INFO  LoginController:76 - e2118f85-8801-487c-b94c-2c55e739e274 ___ token valido
+2023-03-15 12:46:57 INFO  LoginController:76 - 3196a99f-8668-4f23-802c-b8966fc690ef ___ token valido
+2023-03-15 12:46:58 INFO  LoginController:76 - 5f88d82e-fefc-49a7-b237-97247d11fdf3 ___ token valido
+2023-03-15 12:46:58 INFO  LoginController:76 - 8ab3f6fb-ef56-48b5-ae14-a652eddba7dc ___ token valido
+2023-03-15 12:46:59 INFO  LoginController:76 - f914be4f-964f-4297-a8df-ddf30d8f1366 ___ token valido
+2023-03-15 12:46:59 INFO  LoginController:76 - 16a397f8-bce4-4139-b46c-a017d0294134 ___ token valido
+2023-03-15 12:47:01 INFO  LoginController:76 - 4d0084e9-f202-4de8-88a5-f264f20cbe51 ___ token valido
+2023-03-15 12:47:01 INFO  LoginController:76 - aa030756-c8e9-4583-acd2-2eb7af1107ce ___ token valido
+2023-03-15 12:47:01 INFO  LoginController:77 - aa53b9bc-9978-4073-b5cf-0264798b3964 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 12:47:01 INFO  LoginController:76 - 5dea7698-b6cf-4f6d-87e1-bff5c64dd222 ___ token valido
+2023-03-15 12:47:01 INFO  LoginController:77 - 61172226-028a-44ff-8330-2939ba4f07e0 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 12:47:01 INFO  LoginController:76 - 576f04a7-9652-4fc7-a349-0e99e665fd18 ___ token valido
+2023-03-15 12:47:03 INFO  LoginController:76 - 709ddfb1-b5d0-4852-8674-89fe0db4ea8f ___ token valido
+2023-03-15 12:47:03 INFO  LoginController:76 - b0bce768-5136-4b5b-95b6-55d3dbc3f2bc ___ token valido
+2023-03-15 12:47:10 INFO  LoginController:76 - 8a487e34-d62a-4095-af61-b8eca3c8e668 ___ token valido
+2023-03-15 12:47:10 INFO  LoginController:76 - 4f27436b-2935-4cde-8a88-9fba00c8bb5f ___ token valido
+2023-03-15 12:49:59 INFO  LoginController:76 - e3b13ba5-cfc5-4dc0-a081-3d3bb31278df ___ token valido
+2023-03-15 12:49:59 INFO  LoginController:76 - 170107d2-6436-4318-84a3-f3609743385f ___ token valido
+2023-03-15 12:50:00 INFO  LoginController:72 - 420228d8-63b4-4ac2-b0dd-f0c331759bef ___ action drive download: SUCCESS
+2023-03-15 12:50:00 INFO  LoginController:76 - 16cf6efe-d21a-47eb-a938-92bf5f578a07 ___ token valido
+2023-03-15 12:50:00 INFO  LoginController:76 - 91cf3cfe-0e25-48e6-a0f2-a30ab112f033 ___ token valido
+2023-03-15 12:50:01 INFO  LoginController:76 - 975904ea-b9f2-4f43-829e-ffd29cd15877 ___ token valido
+2023-03-15 12:50:01 INFO  LoginController:76 - f1173633-b0ac-4c07-b73d-bf04d5caded4 ___ token valido
+2023-03-15 12:50:03 INFO  LoginController:76 - 594c831f-7539-485b-8ca1-ffe2b7588ff6 ___ token valido
+2023-03-15 12:50:03 INFO  LoginController:76 - 99eef14b-daa6-4a61-802c-071df2ebcf8d ___ token valido
+2023-03-15 12:50:06 INFO  LoginController:72 - 4fb7b49e-02b3-4efa-a3ad-c916bd7ec946 ___ action drive download: FAIL
+2023-03-15 12:50:06 INFO  LoginController:76 - 447dfe2f-c277-41ec-8c46-8825f8f807db ___ token valido
+2023-03-15 12:50:06 INFO  LoginController:76 - 2fadd625-81d9-4b16-9379-479b131dddb9 ___ token valido
+2023-03-15 12:50:18 INFO  LoginController:76 - 7f7fae89-dca4-495e-8a15-7bdd2c101cd2 ___ token valido
+2023-03-15 12:50:18 INFO  LoginController:76 - 5ac8457d-5181-4516-bbeb-2ab83f214076 ___ token valido
+2023-03-15 12:50:18 INFO  LoginController:72 - 418b5344-dcbc-4733-94ff-923a3de5e6ef ___ action drive download: FAIL
+2023-03-15 12:50:18 INFO  LoginController:76 - db8b5e58-d079-4e34-90c0-edc75d6a624e ___ token valido
+2023-03-15 12:50:18 INFO  LoginController:76 - 4ebd2e03-cc62-4ddc-88f0-179bb2ba7a1e ___ token valido
+2023-03-15 12:56:32 INFO  LoginController:76 - 64d699e0-718f-4c2f-9d48-0b077b007d6f ___ token valido
+2023-03-15 12:56:32 INFO  LoginController:76 - c0514a1a-9afb-4dcb-b9a1-b393cd53dfb0 ___ token valido
+2023-03-15 12:56:32 INFO  LoginController:72 - bd283fe6-b057-4c19-be5b-6c43e10ec1f6 ___ action drive download: FAIL
+2023-03-15 12:56:32 INFO  LoginController:76 - 3be018de-eefb-443b-bdb9-fd6127ad503e ___ token valido
+2023-03-15 12:56:32 INFO  LoginController:76 - 48ba5315-f662-4cc4-8718-178e7ef954a0 ___ token valido
+2023-03-15 12:56:36 INFO  LoginController:76 - fe388046-756b-48af-be28-9ee06baca766 ___ token valido
+2023-03-15 12:56:36 INFO  LoginController:76 - 923bbfdb-cb83-4134-9932-f67e33eb20b4 ___ token valido
+2023-03-15 12:56:37 INFO  LoginController:76 - 3fdff80e-e6f4-49f1-91d7-908db6d0e0e0 ___ token valido
+2023-03-15 12:56:37 INFO  LoginController:76 - ad2b4766-641e-430b-a504-5b8b016c74da ___ token valido
+2023-03-15 12:56:37 INFO  LoginController:76 - 0e10391b-d8d9-4e62-ae01-729c76fc3777 ___ token valido
+2023-03-15 12:56:37 INFO  LoginController:76 - ce1e048f-d7b7-4ebe-a49e-15d2d8d5650e ___ token valido
+2023-03-15 12:56:38 INFO  LoginController:76 - 0163eb6b-856b-4f61-bb45-ae4f4017723f ___ token valido
+2023-03-15 12:56:38 INFO  LoginController:76 - 88294d0b-11b1-4874-868a-4b4d72a4a9ff ___ token valido
+2023-03-15 14:11:26 INFO  LoginController:72 - c66f16ff-0916-4a29-83c7-27f34276f311 ___ action drive download: SUCCESS
+2023-03-15 14:11:26 INFO  LoginController:76 - 19cb26a2-0e02-4ef7-afc9-960dec8ebda6 ___ token valido
+2023-03-15 14:11:26 INFO  LoginController:76 - 79bb4ae6-4962-4d1e-a41b-95635c028552 ___ token valido
+2023-03-15 14:11:29 INFO  LoginController:76 - 17e287f9-5296-4ab9-b040-6f605433f59a ___ token valido
+2023-03-15 14:11:29 INFO  LoginController:76 - 8f8efb4c-269b-4680-a9af-fe3ffc54f0eb ___ token valido
+2023-03-15 14:11:30 INFO  LoginController:76 - 3e05a4fe-a17c-4579-a3e5-fb85644f4168 ___ token valido
+2023-03-15 14:11:30 INFO  LoginController:76 - 753bfd94-0e9b-4897-ac11-2d74cc8a0c9a ___ token valido
+2023-03-15 14:11:32 INFO  LoginController:76 - a4033251-878f-4897-a51f-1c847cbf604d ___ token valido
+2023-03-15 14:11:32 INFO  LoginController:76 - b9598433-661c-4cf4-9612-dd396a0f4025 ___ token valido
+2023-03-15 14:11:33 INFO  LoginController:72 - 15dee1a0-99a2-4fb9-8caa-21fe06316f6b ___ action drive download: SUCCESS
+2023-03-15 15:33:42 INFO  LoginController:76 - ab42ee9a-801d-4bc5-b23a-e7f5c927ffa4 ___ token valido
+2023-03-15 15:33:42 INFO  LoginController:76 - 62f1aa1e-ae49-4529-a9cf-e28f50f1693e ___ token valido
+2023-03-15 16:01:57 INFO  LoginController:76 - ee7ed359-c73e-4b4b-a3f8-8da4604584a2 ___ token valido
+2023-03-15 16:01:57 INFO  LoginController:77 - fc23040b-d03f-4531-b25e-dc8ff0a1af5e ___ file list retrieve in directoryexampleuser29success
+2023-03-15 16:01:57 INFO  LoginController:76 - ba69876c-ee14-40e2-af3a-a49a336038f4 ___ token valido
+2023-03-15 16:01:57 INFO  LoginController:77 - 951f7b18-c9fd-4f86-af7b-0c5e67ceb320 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 16:01:58 INFO  LoginController:77 - f04fe53d-16dc-45b6-85b2-32633ebc9763 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 16:01:58 INFO  LoginController:76 - 8b262bd9-1637-491a-974e-1ed1af3d9979 ___ token valido
+2023-03-15 16:01:58 INFO  LoginController:77 - 7edec7b9-f027-4bac-a97f-87445aed07a6 ___ file list retrieve in directoryexampleuser29success
+2023-03-15 16:01:58 INFO  LoginController:76 - 63106ce8-59e5-4dc2-9064-8271a8ee3d6e ___ token valido
+2023-03-15 16:01:58 INFO  LoginController:76 - 0a553f57-9da5-4fd0-b6ca-ead81262317d ___ token valido
+2023-03-15 16:01:58 INFO  LoginController:77 - 735c3e6b-a091-40b2-a22e-75c2f9b0018a ___ file list retrieve in directoryexampleuser29success
+2023-03-15 16:01:58 INFO  LoginController:77 - e57661d3-5711-44d8-abf4-849895614a2e ___ file list retrieve in directoryexampleuser29success
+2023-03-15 16:01:58 INFO  LoginController:76 - 65381d01-ed94-4eb3-ac7d-4ee5f692b89f ___ token valido
+2023-03-15 18:48:39 INFO  LoginController:69 - 4ab943b6-12bf-466f-9a24-0fa667ed2472 ___ sessione scaduta
+2023-03-15 18:48:39 INFO  LoginController:69 - 47062852-63aa-44f3-8052-42fa7542d7e0 ___ sessione scaduta
+2023-03-16 09:22:07 INFO  LoginController:36 - 67d96962-96c5-49cb-8124-6f2e81d4a15echiamata REST di login eseguita. ID: 
+2023-03-16 09:22:07 INFO  LoginController:125 - 67d96962-96c5-49cb-8124-6f2e81d4a15e ___ inizio tentativo login da user:exampleuser29
+2023-03-16 09:22:07 INFO  LoginController:109 - 67d96962-96c5-49cb-8124-6f2e81d4a15eencrypted password matching check success
+2023-03-16 09:22:08 INFO  LoginController:168 - 67d96962-96c5-49cb-8124-6f2e81d4a15e ___ login utente valido.
+2023-03-16 09:22:08 INFO  LoginController:65 - 67d96962-96c5-49cb-8124-6f2e81d4a15e ___ login completato.
+2023-03-16 09:22:08 INFO  LoginController:72 - f90cb444-b28b-4f14-a870-12986a712cd4 ___ action login: SUCCESS
+2023-03-16 09:22:08 INFO  LoginController:76 - 99de9cec-d023-49fa-8dd4-949cb67bcf68 ___ token valido
+2023-03-16 09:22:08 INFO  LoginController:76 - 623450a5-75ad-4810-b3fb-1e5581bf4fc0 ___ token valido
+2023-03-16 09:22:10 INFO  LoginController:76 - dcbb97a5-09ac-4674-8957-564e6610d4c1 ___ token valido
+2023-03-16 09:22:10 INFO  LoginController:76 - cfebebc1-0381-48cc-ad77-8b861f1040f1 ___ token valido
+2023-03-16 09:23:14 INFO  LoginController:76 - d84fabd1-4408-4f01-a7e8-34016a4e69b4 ___ token valido
+2023-03-16 09:23:14 INFO  LoginController:76 - 9718589b-9022-41e9-b7f8-e98c3483e8d2 ___ token valido
+2023-03-16 09:23:15 INFO  LoginController:76 - e5afb7e3-a53d-4b69-9059-c4ef95d6eaf6 ___ token valido
+2023-03-16 09:23:15 INFO  LoginController:76 - 66150886-4583-42fb-a1c8-62e93a67c8e5 ___ token valido
+2023-03-16 09:23:16 INFO  LoginController:77 - 9e618ffc-1c2d-454d-835c-139a043a9432 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:23:16 INFO  LoginController:76 - 0cb27d85-8571-4d35-8d56-c5287010f39b ___ token valido
+2023-03-16 09:23:16 INFO  LoginController:77 - 72d2072c-7980-4375-9d31-7107eb564b69 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:23:16 INFO  LoginController:76 - 18b11aaa-ddc5-4472-afcc-87e8b9cbf1f0 ___ token valido
+2023-03-16 09:23:17 INFO  LoginController:76 - d2f691c3-1ef3-4f7e-84c4-c28cffce72fd ___ token valido
+2023-03-16 09:23:17 INFO  LoginController:76 - 4512e13c-bc54-4768-90d2-b8166bbdcca1 ___ token valido
+2023-03-16 09:23:17 INFO  LoginController:72 - c0863ba1-bdc0-4b3f-bd46-58afe330c4bb ___ action drive download: SUCCESS
+2023-03-16 09:23:19 INFO  LoginController:76 - dcaa06f2-6caa-4c04-8af2-f290e0c8269a ___ token valido
+2023-03-16 09:23:19 INFO  LoginController:76 - 2e2eedb9-b000-48a0-8859-33958a6db538 ___ token valido
+2023-03-16 09:23:20 INFO  LoginController:72 - ec87a687-470e-4f15-a13b-51744a8a1d09 ___ action drive download: FAIL
+2023-03-16 09:23:20 INFO  LoginController:76 - 909e163a-4f1f-4242-b81f-ee199e4a6873 ___ token valido
+2023-03-16 09:23:20 INFO  LoginController:76 - f9cf267c-febe-4e0f-8d68-ab86c5446ac1 ___ token valido
+2023-03-16 09:23:20 INFO  LoginController:76 - 0b07bae8-f32b-4b5e-94bc-af9ee6e26882 ___ token valido
+2023-03-16 09:23:20 INFO  LoginController:76 - f5593342-d74c-4ab0-917e-5a2fbbbcf7da ___ token valido
+2023-03-16 09:23:21 INFO  LoginController:72 - fd605e78-1db6-416a-a023-56a48f82296e ___ action drive download: FAIL
+2023-03-16 09:23:21 INFO  LoginController:76 - fa10dfc6-c279-4997-8268-b4b54815bd16 ___ token valido
+2023-03-16 09:23:21 INFO  LoginController:76 - 6fd021f9-e923-46ef-9252-052ccb7f75b9 ___ token valido
+2023-03-16 09:23:22 INFO  LoginController:76 - 8a62788f-ef47-4e81-bfb9-bd5566cc3125 ___ token valido
+2023-03-16 09:23:22 INFO  LoginController:76 - b251252e-c20d-4839-8ee3-84cfe1b81571 ___ token valido
+2023-03-16 09:23:26 INFO  LoginController:76 - 8db74a39-c9e6-41b3-b4e7-40e6cb6cb759 ___ token valido
+2023-03-16 09:23:26 INFO  LoginController:76 - 746d7477-04d6-4416-a5cb-29544e9a6c48 ___ token valido
+2023-03-16 09:23:27 INFO  LoginController:72 - cd6c5a8f-f65d-472d-af07-fe2c62faa402 ___ action drive upload: FAIL
+2023-03-16 09:23:27 INFO  LoginController:77 - a0fb7bea-de88-4d2f-98e9-ec526318482c ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:23:27 INFO  LoginController:76 - 301e9f96-38aa-4a7a-99b0-8f39557724d0 ___ token valido
+2023-03-16 09:23:27 INFO  LoginController:76 - 649c4d46-9967-4100-b198-18340f689abe ___ token valido
+2023-03-16 09:23:29 INFO  LoginController:76 - 5b40970c-6a49-410d-9fed-30e91081dae8 ___ token valido
+2023-03-16 09:23:29 INFO  LoginController:76 - a1b1efd9-14c7-4156-a4e0-7b3a68cbf9d8 ___ token valido
+2023-03-16 09:23:31 INFO  LoginController:76 - e8eaf0c8-5dee-4305-8cdc-1d749478463b ___ token valido
+2023-03-16 09:23:31 INFO  LoginController:76 - c60f1f85-8261-4d4f-913d-ee3d546105a5 ___ token valido
+2023-03-16 09:23:32 INFO  LoginController:72 - 124822b9-a598-4901-9003-8c576d1539f1 ___ action drive delete: SUCCESS
+2023-03-16 09:23:32 INFO  LoginController:77 - 61b1005e-d7a7-4ff7-9c46-2e8448c221e6 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:23:32 INFO  LoginController:76 - 5b88a445-eff1-4db2-b8fd-5ba53f7f750a ___ token valido
+2023-03-16 09:23:32 INFO  LoginController:76 - ab560f69-c2da-46ea-9b03-a9bcd79e0831 ___ token valido
+2023-03-16 09:23:32 INFO  LoginController:234 - 166bff3c-c6ca-4d98-95ff-ccccd1874237 ___ file delete success200000000B (7) (4) (1) (1) (4).txt
+2023-03-16 09:23:32 INFO  LoginController:76 - 74787bd1-6bac-4188-819c-243906560a36 ___ token valido
+2023-03-16 09:23:32 INFO  LoginController:76 - b74ccc70-0e1c-4d89-9703-d7bdc7f13de8 ___ token valido
+2023-03-16 09:23:34 INFO  LoginController:72 - a1abd341-02b1-4b76-95fd-d1fe216ee8fe ___ action drive delete: SUCCESS
+2023-03-16 09:23:35 INFO  LoginController:234 - 3a025780-17e7-4396-a156-5222981713bf ___ file delete success200000000B (7) (4) (1) (1) (4)(1).txt
+2023-03-16 09:23:35 INFO  LoginController:77 - 647be3df-8258-404e-bbce-23c01357d27b ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:23:35 INFO  LoginController:76 - 96a9a53c-51b6-4681-a24a-5554ddb2f995 ___ token valido
+2023-03-16 09:23:35 INFO  LoginController:76 - e6928fa2-f13f-4ac0-9263-68eb0ef19ad4 ___ token valido
+2023-03-16 09:23:35 INFO  LoginController:76 - b48e7c07-ac01-4d4d-aeca-f7cf6431ae17 ___ token valido
+2023-03-16 09:23:35 INFO  LoginController:76 - 159b57ab-e9b1-4d76-94f7-b6b3fe4a8c54 ___ token valido
+2023-03-16 09:23:41 INFO  LoginController:76 - 02102f72-a36f-4d5e-8cfc-fc0274106431 ___ token valido
+2023-03-16 09:23:41 INFO  LoginController:76 - 40dd19e9-cfbf-4bc0-98c2-8da96980e678 ___ token valido
+2023-03-16 09:23:43 INFO  LoginController:76 - bf707828-8522-4036-acb8-65a85219fb68 ___ token valido
+2023-03-16 09:23:43 INFO  LoginController:76 - 56029f9f-7d12-436e-9a69-64228faf3fd7 ___ token valido
+2023-03-16 09:23:44 INFO  LoginController:76 - c7255ecb-fc10-452a-8df5-bf25a730e3f3 ___ token valido
+2023-03-16 09:23:44 INFO  LoginController:76 - 80ca12ed-df6c-42ed-a5af-2219feb86b29 ___ token valido
+2023-03-16 09:23:51 INFO  LoginController:76 - 8bd05f79-bcd0-438d-9728-4a4d9d430a43 ___ token valido
+2023-03-16 09:23:51 INFO  LoginController:76 - 78920a3e-1d16-4a89-a9c5-4c3ef57b969b ___ token valido
+2023-03-16 09:23:51 INFO  LoginController:72 - 93ac3fb0-3537-46b6-970e-b79fae789abb ___ action drive download: FAIL
+2023-03-16 09:23:52 INFO  LoginController:76 - fc166cae-4c3a-4589-aac5-9d1b86690bd6 ___ token valido
+2023-03-16 09:23:52 INFO  LoginController:76 - 2ef60c55-d42f-458e-b619-c4ae5ff81310 ___ token valido
+2023-03-16 09:23:52 INFO  LoginController:76 - 0cf49c62-102b-4b8e-a10b-970d430df2be ___ token valido
+2023-03-16 09:23:52 INFO  LoginController:76 - 1fc33824-3a2a-420c-a93f-e89b6d3791ac ___ token valido
+2023-03-16 09:23:52 INFO  LoginController:72 - 67935f41-5adb-4680-9cc7-b5297d079ff1 ___ action drive download: FAIL
+2023-03-16 09:23:52 INFO  LoginController:76 - 7a6e7f3b-7932-4786-bb39-60601b6ae39d ___ token valido
+2023-03-16 09:23:52 INFO  LoginController:76 - d2e78aa4-9922-43b2-90dd-55150a690c46 ___ token valido
+2023-03-16 09:23:54 INFO  LoginController:76 - 70f0ff36-7d1f-4186-9e92-16194fc7cf83 ___ token valido
+2023-03-16 09:23:54 INFO  LoginController:76 - 062df12b-226f-4313-b377-f81fd8e23ac3 ___ token valido
+2023-03-16 09:23:58 INFO  LoginController:76 - 61569022-a0a4-400a-bdb6-fcc8a83fab5c ___ token valido
+2023-03-16 09:23:58 INFO  LoginController:76 - eea0d3d4-437d-4535-bf94-a36bbcc52603 ___ token valido
+2023-03-16 09:24:02 INFO  LoginController:76 - 02e237d2-e7e7-448a-a1e4-4e013e354006 ___ token valido
+2023-03-16 09:24:02 INFO  LoginController:76 - 118e5b02-708e-4d75-9e8c-720ace479fda ___ token valido
+2023-03-16 09:24:05 INFO  LoginController:72 - 9adb3a61-d122-4ece-9a85-602d3b21f7d5 ___ action drive download: SUCCESS
+2023-03-16 09:24:06 INFO  LoginController:77 - 25704d0d-92e7-406a-8927-0c409c8e7bb8 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:24:06 INFO  LoginController:159 - 4c00eac1-1bca-4e90-857c-97bc047d31c0 ___ file upload stream buffer success
+2023-03-16 09:24:06 INFO  LoginController:115 - 4c00eac1-1bca-4e90-857c-97bc047d31c0 ___ file upload process success
+2023-03-16 09:24:06 INFO  LoginController:77 - c4ea163a-b440-4185-9403-ac385314eb9e ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:24:06 INFO  LoginController:72 - 559cc878-1fea-45a6-9afa-d26305fb625c ___ action drive upload: SUCCESS
+2023-03-16 09:24:10 INFO  LoginController:76 - f58889cd-32ca-4086-9df5-c82617ae47b4 ___ token valido
+2023-03-16 09:24:10 INFO  LoginController:76 - f7003419-7ac0-4207-a8b7-4e535d8b1edb ___ token valido
+2023-03-16 09:24:12 INFO  LoginController:72 - 0ca446a0-4fc5-4289-ad9b-8629c0e9a2eb ___ action drive delete: SUCCESS
+2023-03-16 09:24:12 INFO  LoginController:76 - 5fa41cb0-b687-49e2-ac57-bda052fdef27 ___ token valido
+2023-03-16 09:24:12 INFO  LoginController:76 - 91b54a25-6234-4a6d-b8ff-d81e4e7e5145 ___ token valido
+2023-03-16 09:24:12 INFO  LoginController:234 - eabaaeec-fe87-4ee9-b5fe-b4295246a002 ___ file delete success200000000B (7) (4) (1) (1) (4) (2).txt
+2023-03-16 09:24:12 INFO  LoginController:77 - d731114c-e037-4844-be63-c077c7908909 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:24:13 INFO  LoginController:76 - fae77926-2776-41cf-925e-f5610bc737b1 ___ token valido
+2023-03-16 09:24:13 INFO  LoginController:76 - 1353e0f0-dd23-4fbe-b012-5420a793cb2b ___ token valido
+2023-03-16 09:24:22 INFO  LoginController:76 - 902b9d90-f3e3-4e79-a1d9-d7260094e9ac ___ token valido
+2023-03-16 09:24:22 INFO  LoginController:76 - 8aa85c4f-eecd-4225-bb11-a661b9fb2876 ___ token valido
+2023-03-16 09:24:23 INFO  LoginController:72 - 4a858260-61a3-4a28-8459-d61c904bd94a ___ action drive download: FAIL
+2023-03-16 09:24:23 INFO  LoginController:76 - 7aab0ae0-206a-4162-b21a-1646820dbc55 ___ token valido
+2023-03-16 09:24:23 INFO  LoginController:76 - 4f6e3bd1-6c16-43b5-aba0-e2f203983fb2 ___ token valido
+2023-03-16 09:24:24 INFO  LoginController:76 - 383c7e7c-f49b-42cb-8453-7446c7184475 ___ token valido
+2023-03-16 09:24:24 INFO  LoginController:76 - b8478566-c005-40a5-bf3c-54bc0633a48e ___ token valido
+2023-03-16 09:24:24 INFO  LoginController:76 - 011b1a07-ad91-4e53-ac4a-e765df7fe756 ___ token valido
+2023-03-16 09:24:24 INFO  LoginController:76 - 284d9277-2c26-43c5-a0ec-099b22ce063e ___ token valido
+2023-03-16 09:24:27 INFO  LoginController:72 - 88a36da2-bce5-4445-b785-4dba386b8114 ___ action drive download: SUCCESS
+2023-03-16 09:24:29 INFO  LoginController:76 - 05d652d6-c760-4817-a0f2-55bd5cca8703 ___ token valido
+2023-03-16 09:24:29 INFO  LoginController:76 - af8a7b6e-bb80-4ede-877d-ef065c7df067 ___ token valido
+2023-03-16 09:24:30 INFO  LoginController:72 - 4bb5ba7c-ead7-4b23-b783-09a94a824f26 ___ action drive delete: SUCCESS
+2023-03-16 09:24:30 INFO  LoginController:77 - 9bbfcd5c-1568-4a3a-a9e7-59ceb0fa0c9c ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:24:30 INFO  LoginController:76 - 4c3777ad-9943-4a0f-a902-a89c8a8ade6b ___ token valido
+2023-03-16 09:24:30 INFO  LoginController:76 - b9c97550-e17c-4b20-9e14-cf7dd40b1ade ___ token valido
+2023-03-16 09:24:30 INFO  LoginController:234 - ccc7e20e-7d12-43d5-8404-8b1e009be730 ___ file delete successideaIC-2022.3.1 (1) (2).exe
+2023-03-16 09:24:36 INFO  LoginController:76 - 7a036c7a-f2a1-4772-a023-a7ed1423c3b2 ___ token valido
+2023-03-16 09:24:36 INFO  LoginController:76 - eb2b9089-adc2-4f00-b7b8-a406f424c937 ___ token valido
+2023-03-16 09:24:37 INFO  LoginController:76 - 02cc6dc8-cdf6-47ac-b933-b1fbb766f6cf ___ token valido
+2023-03-16 09:24:37 INFO  LoginController:76 - d97ca0f0-3c6b-4402-87b5-a56a9271bdf2 ___ token valido
+2023-03-16 09:28:51 INFO  LoginController:77 - 6a216521-f011-401c-a70f-613a7a105e35 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:28:51 INFO  LoginController:77 - 15a941d2-e589-4e58-b519-bdcfc3ddbcec ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:28:51 INFO  LoginController:76 - a339a5fc-4e17-442f-baf1-4f7613415870 ___ token valido
+2023-03-16 09:28:51 INFO  LoginController:76 - 6c481fd3-5884-4f1d-b368-dcdf816e8318 ___ token valido
+2023-03-16 09:28:53 INFO  LoginController:76 - bcbe0abe-e13c-4157-84d6-f25de2f8820e ___ token valido
+2023-03-16 09:28:53 INFO  LoginController:76 - b13af78f-994d-44a9-9806-e3a34e5c3c6c ___ token valido
+2023-03-16 09:28:57 INFO  LoginController:76 - 48843ed4-4871-428c-af22-4cf3edb88586 ___ token valido
+2023-03-16 09:28:57 INFO  LoginController:76 - c8b247c4-70c5-4639-bf29-56b241f7e633 ___ token valido
+2023-03-16 09:28:57 INFO  LoginController:76 - eb376ff1-d199-4acc-b42e-a22595417407 ___ token valido
+2023-03-16 09:28:57 INFO  LoginController:76 - 54112869-032a-4c1a-ab74-c11f21edce29 ___ token valido
+2023-03-16 09:29:05 INFO  LoginController:77 - a64bcbc8-ca05-4df5-b1cd-62b0c8e76b51 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:29:05 INFO  LoginController:77 - fc90e5bd-94ba-4388-8fa4-af19b100b483 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:29:06 INFO  LoginController:159 - 0b92bc6d-da34-4581-b933-3ec311bdaf6d ___ file upload stream buffer success
+2023-03-16 09:29:06 INFO  LoginController:115 - 0b92bc6d-da34-4581-b933-3ec311bdaf6d ___ file upload process success
+2023-03-16 09:29:06 INFO  LoginController:77 - b99b5976-0f0d-4d03-9afa-40d87de4181c ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:29:06 INFO  LoginController:72 - 17a0120e-0e0c-494b-9904-e6f12ff2800c ___ action drive upload: SUCCESS
+2023-03-16 09:29:11 INFO  LoginController:76 - 94dba0ca-c8c6-4748-a10f-235912462f9c ___ token valido
+2023-03-16 09:29:11 INFO  LoginController:76 - 9347319c-72c5-46d6-97ef-f9744cf5f201 ___ token valido
+2023-03-16 09:29:12 INFO  LoginController:76 - fe4a4185-7e51-4554-a245-3399f82f5e28 ___ token valido
+2023-03-16 09:29:12 INFO  LoginController:76 - 3b916c04-8132-430d-9e1d-9470229ffab8 ___ token valido
+2023-03-16 09:29:15 INFO  LoginController:76 - a6c9f834-7406-4b00-bb87-a419b82fd6cb ___ token valido
+2023-03-16 09:29:15 INFO  LoginController:76 - af4afa92-f801-47fe-a77f-0cea9826eb2f ___ token valido
+2023-03-16 09:29:58 INFO  LoginController:76 - 8587674a-2c1c-447d-90bf-094f68dddc91 ___ token valido
+2023-03-16 09:29:58 INFO  LoginController:76 - 900df4c7-8c23-4a1e-a00e-7014dabc4a04 ___ token valido
+2023-03-16 09:29:59 INFO  LoginController:76 - 8764ae4a-7b53-46d5-b6a6-2980939e38e3 ___ token valido
+2023-03-16 09:29:59 INFO  LoginController:76 - 0c6b6ced-cb7f-44f3-89c2-504ff195c275 ___ token valido
+2023-03-16 09:30:05 INFO  LoginController:76 - 9bb90a51-7a4d-4405-a724-d13aa06e405f ___ token valido
+2023-03-16 09:30:05 INFO  LoginController:76 - b935b13a-26d7-45ce-a58f-5c2ef24c4e7c ___ token valido
+2023-03-16 09:30:05 INFO  LoginController:159 - c9087b2e-dfb6-4a9d-b566-cfb503f5620e ___ file upload stream buffer success
+2023-03-16 09:30:05 INFO  LoginController:115 - c9087b2e-dfb6-4a9d-b566-cfb503f5620e ___ file upload process success
+2023-03-16 09:30:05 INFO  LoginController:72 - 2cb7027c-1802-45a5-a00e-e453eae06e9e ___ action drive upload: SUCCESS
+2023-03-16 09:30:05 INFO  LoginController:77 - 89591e12-f5da-426c-bbfe-69d4effc7ebf ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:05 INFO  LoginController:76 - bc038bd2-35e3-44ba-8f5b-adabc472f63d ___ token valido
+2023-03-16 09:30:05 INFO  LoginController:76 - 39a9bdb8-094f-45c0-94a1-60cd0cdcdcae ___ token valido
+2023-03-16 09:30:10 INFO  LoginController:76 - def32c3c-8eee-450e-b082-1264e4967fad ___ token valido
+2023-03-16 09:30:10 INFO  LoginController:159 - 90668ca8-bb4f-4237-9f99-da7b0671fe0e ___ file upload stream buffer success
+2023-03-16 09:30:10 INFO  LoginController:76 - dc20b393-1284-480a-bc1f-3b13abc6339f ___ token valido
+2023-03-16 09:30:10 INFO  LoginController:115 - 90668ca8-bb4f-4237-9f99-da7b0671fe0e ___ file upload process success
+2023-03-16 09:30:10 INFO  LoginController:72 - def789bb-4c33-46ac-87ed-83b706bd04c7 ___ action drive upload: SUCCESS
+2023-03-16 09:30:10 INFO  LoginController:77 - 630930a6-b030-4b53-a565-cd4c40dfb331 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:12 INFO  LoginController:76 - 795f42ec-de4a-45d4-afa7-5b5feccce3e1 ___ token valido
+2023-03-16 09:30:12 INFO  LoginController:76 - feaf2c95-6e44-4465-b4d7-eaedcf7663b3 ___ token valido
+2023-03-16 09:30:15 INFO  LoginController:76 - d1fd4a6d-5254-4730-8174-a15b7c2a4745 ___ token valido
+2023-03-16 09:30:15 INFO  LoginController:76 - 50a5ee6f-a84f-4bcc-8286-8a0b8390e877 ___ token valido
+2023-03-16 09:30:16 INFO  LoginController:72 - 649aee13-b903-40ed-be35-fa56af3ce428 ___ action drive upload: FAIL
+2023-03-16 09:30:16 INFO  LoginController:77 - 5c22f502-61d8-457d-81e0-7952f704f9ab ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:16 INFO  LoginController:76 - c385bcf7-e51c-424a-bfc4-16da23945a74 ___ token valido
+2023-03-16 09:30:16 INFO  LoginController:76 - cc688ce2-c91a-47b8-b2f5-b606f389f2cb ___ token valido
+2023-03-16 09:30:17 INFO  LoginController:76 - c7626051-838b-456c-928c-9545cc9de429 ___ token valido
+2023-03-16 09:30:17 INFO  LoginController:76 - 6ac256a0-4f95-4132-95e7-e5cdeb5869c9 ___ token valido
+2023-03-16 09:30:18 INFO  LoginController:72 - 8eae85fb-d23a-410e-ba93-9cfc0ea82307 ___ action drive download: FAIL
+2023-03-16 09:30:18 INFO  LoginController:76 - 834b30c4-9bfb-4162-8e3c-2af339d9c263 ___ token valido
+2023-03-16 09:30:18 INFO  LoginController:76 - 8f258943-7eb5-401c-a3db-678813f11807 ___ token valido
+2023-03-16 09:30:19 INFO  LoginController:76 - fd2fed99-cb90-49c5-92f1-ab2a56a8c0e6 ___ token valido
+2023-03-16 09:30:19 INFO  LoginController:72 - df2d49ba-24b1-4ff3-889b-eb2e5f02da62 ___ action drive download: SUCCESS
+2023-03-16 09:30:19 INFO  LoginController:76 - 03ddf450-37e4-428c-9d23-e4ce675184c8 ___ token valido
+2023-03-16 09:30:21 INFO  LoginController:72 - 0b17f862-8e44-4be1-81e5-7b928c096235 ___ action drive delete: SUCCESS
+2023-03-16 09:30:21 INFO  LoginController:234 - b2529b38-e8a4-4460-9bf0-189337c21e18 ___ file delete successSIAV(1) (1) (3) (1).jfif
+2023-03-16 09:30:21 INFO  LoginController:77 - 89a3d783-f2d8-4e77-91a9-0eaa1e4ebc31 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:21 INFO  LoginController:76 - 37993b9a-7ee4-4b66-8f0b-0a0d0a1e5c82 ___ token valido
+2023-03-16 09:30:21 INFO  LoginController:76 - 279c43e8-c274-4dbe-9bb1-855d38c3776d ___ token valido
+2023-03-16 09:30:22 INFO  LoginController:76 - b9d2398a-902f-44be-aa32-d0c5a72ae033 ___ token valido
+2023-03-16 09:30:22 INFO  LoginController:76 - 9948a29c-9051-4bc3-a15d-1b73b1f85be0 ___ token valido
+2023-03-16 09:30:23 INFO  LoginController:76 - 80735072-bb49-4393-972b-632eb2fe1633 ___ token valido
+2023-03-16 09:30:23 INFO  LoginController:76 - f30c7834-02f8-48ea-afbd-201c8fe17a42 ___ token valido
+2023-03-16 09:30:23 INFO  LoginController:72 - d0208105-0feb-47ab-b46a-5e527f994a77 ___ action drive download: SUCCESS
+2023-03-16 09:30:23 INFO  LoginController:72 - 9ac136a1-5a8e-4139-b275-b39002891dbb ___ action drive download: SUCCESS
+2023-03-16 09:30:24 INFO  LoginController:76 - c30fde1b-a465-47cf-84d7-5607e51a5717 ___ token valido
+2023-03-16 09:30:24 INFO  LoginController:76 - 5771d94c-ae28-4b32-87e0-af36bb661047 ___ token valido
+2023-03-16 09:30:24 INFO  LoginController:72 - 1734c291-0b2a-4042-98c6-5c8bcfc5c02a ___ action drive download: FAIL
+2023-03-16 09:30:24 INFO  LoginController:76 - 86f16d21-e4f8-448e-b4d5-832820e95b21 ___ token valido
+2023-03-16 09:30:24 INFO  LoginController:76 - 7142ae3d-afe2-46b8-805d-6ee5b8876dcf ___ token valido
+2023-03-16 09:30:25 INFO  LoginController:76 - 8e31655c-1f8c-45fb-a13b-4c62957885f8 ___ token valido
+2023-03-16 09:30:25 INFO  LoginController:76 - a4c33de0-50ba-4755-b60f-8b8d690ccdfb ___ token valido
+2023-03-16 09:30:25 INFO  LoginController:72 - 21a5e34b-d425-4ab8-9f67-b6a117d85bd1 ___ action drive download: FAIL
+2023-03-16 09:30:25 INFO  LoginController:76 - 7eb6373e-cc81-43b1-ab5b-326264943c01 ___ token valido
+2023-03-16 09:30:25 INFO  LoginController:76 - 898db89f-4665-4ac2-a883-14bc8b453af9 ___ token valido
+2023-03-16 09:30:27 INFO  LoginController:77 - 1027c894-eecb-4567-840e-34bf6461fd0f ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:27 INFO  LoginController:76 - d4f01092-30fa-4ee8-a95e-9943702a7578 ___ token valido
+2023-03-16 09:30:27 INFO  LoginController:77 - ca89ea3d-9052-4a87-9bba-c5180932b5c8 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:27 INFO  LoginController:76 - b90bbda0-cacc-43f4-839f-e02f7317d015 ___ token valido
+2023-03-16 09:30:28 INFO  LoginController:76 - 185ad981-9998-4021-b348-d7bd5341e6db ___ token valido
+2023-03-16 09:30:28 INFO  LoginController:76 - 010d2630-1d27-4461-85fa-984c41e369ff ___ token valido
+2023-03-16 09:30:32 INFO  LoginController:76 - bd10093f-2408-4093-b482-09cc6fe4f798 ___ token valido
+2023-03-16 09:30:32 INFO  LoginController:76 - 6a00c621-2211-4496-803e-2e2e121b7697 ___ token valido
+2023-03-16 09:30:34 INFO  LoginController:77 - f0acfc2a-1667-401d-8992-7faaafd33505 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:35 INFO  LoginController:159 - 3148e672-8bdb-46f5-ad9e-6b8968d5517d ___ file upload stream buffer success
+2023-03-16 09:30:35 INFO  LoginController:115 - 3148e672-8bdb-46f5-ad9e-6b8968d5517d ___ file upload process success
+2023-03-16 09:30:35 INFO  LoginController:77 - 6f61709d-db33-4163-891f-c06aa0de844f ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:35 INFO  LoginController:72 - 583c7f5b-66a8-46c8-9e23-dc27bb7c26e4 ___ action drive upload: SUCCESS
+2023-03-16 09:30:37 INFO  LoginController:76 - 8e1b0f8a-0054-4884-801b-9692c25483e9 ___ token valido
+2023-03-16 09:30:37 INFO  LoginController:76 - af79cbc8-9534-4870-883a-e21f9376ddd8 ___ token valido
+2023-03-16 09:30:37 INFO  LoginController:77 - 10441f58-a63f-4df3-99ef-bffe95ab7931 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:38 INFO  LoginController:76 - 4a0a5662-89d4-4e62-9473-b53e6630c773 ___ token valido
+2023-03-16 09:30:38 INFO  LoginController:76 - fdd08e9b-d88d-4414-bfbd-52bc055346d8 ___ token valido
+2023-03-16 09:30:38 INFO  LoginController:77 - 5957fb59-bdea-4b58-840c-3ba1e68b8685 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:39 INFO  LoginController:76 - 91231c24-44e3-4c4f-8de7-b20aa59e2dd6 ___ token valido
+2023-03-16 09:30:39 INFO  LoginController:76 - 0ff2c5ea-7bfb-4ccb-bf7f-c67bf8aaf7f4 ___ token valido
+2023-03-16 09:30:39 INFO  LoginController:77 - 0b2e3347-b118-4148-9df7-c36328ee94b6 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:30:44 INFO  LoginController:76 - 821b8981-ad81-4547-9c29-a3677e72b231 ___ token valido
+2023-03-16 09:30:44 INFO  LoginController:76 - 2bee8dee-d213-47d9-bfd3-53629c1539f5 ___ token valido
+2023-03-16 09:30:45 INFO  LoginController:76 - 3d8e511c-e4ed-40cd-aaca-1c28eb561dff ___ token valido
+2023-03-16 09:30:45 INFO  LoginController:76 - 9d9c12ea-4b51-4232-bddb-2876b08b4c3f ___ token valido
+2023-03-16 09:30:45 INFO  LoginController:76 - 37717113-7fc6-4c7d-b57d-32d7879d367b ___ token valido
+2023-03-16 09:30:45 INFO  LoginController:76 - 65eabe36-a8dd-4ef0-90a4-487392a8f858 ___ token valido
+2023-03-16 09:30:46 INFO  LoginController:76 - 26d982d8-395c-4323-ba5c-f8ffe82ed1ba ___ token valido
+2023-03-16 09:30:46 INFO  LoginController:76 - 49f8a1f8-6a7f-492f-9416-df4ef004d248 ___ token valido
+2023-03-16 09:30:47 INFO  LoginController:76 - d9364afe-e10f-497c-8ab7-fa8e70848bef ___ token valido
+2023-03-16 09:30:47 INFO  LoginController:76 - 5208c368-18a8-4745-956a-d39e31f6b8d7 ___ token valido
+2023-03-16 09:30:47 INFO  LoginController:76 - 7a4f3f9d-3193-4562-921e-50bd33c8dc37 ___ token valido
+2023-03-16 09:30:47 INFO  LoginController:76 - 6d7590ec-dbb4-481b-8e5d-539b6527566b ___ token valido
+2023-03-16 09:32:47 INFO  LoginController:76 - 60d1cfe0-ed84-43ac-a9b7-00bfac131fe5 ___ token valido
+2023-03-16 09:32:47 INFO  LoginController:76 - c3b5e315-0b46-46a9-bc28-0e4351e21a6b ___ token valido
+2023-03-16 09:32:51 INFO  LoginController:76 - df2ebf56-dc9a-480a-bb3f-e3e856a12a14 ___ token valido
+2023-03-16 09:32:51 INFO  LoginController:76 - 4650d7e6-5ceb-4fd8-b661-ab36c65e9138 ___ token valido
+2023-03-16 09:32:52 INFO  LoginController:72 - 910c4727-ff94-4c98-9cfd-16d23ac25401 ___ action drive upload: FAIL
+2023-03-16 09:32:52 INFO  LoginController:77 - 9d0a36f5-195c-4bb7-b145-9310b8578b8e ___ file list retrieve in directoryexampleuser29success
+2023-03-16 09:32:52 INFO  LoginController:76 - 08a6fd4b-2e2e-4498-9a84-c8e3e41ae889 ___ token valido
+2023-03-16 09:32:52 INFO  LoginController:76 - d2a8f78d-7549-41db-a6dc-74a6e4701077 ___ token valido
+2023-03-16 09:32:56 INFO  LoginController:76 - dd207458-ed5a-4798-ae97-13bb15dbb853 ___ token valido
+2023-03-16 09:32:56 INFO  LoginController:76 - 5d154b76-a0be-4086-b858-1efea849f6b5 ___ token valido
+2023-03-16 09:32:57 INFO  LoginController:76 - 0c951e23-9d34-46d4-af2c-bf3e03f6180a ___ token valido
+2023-03-16 09:32:57 INFO  LoginController:76 - d9569db3-cd8c-4cc1-a2eb-ceb65ef99310 ___ token valido
+2023-03-16 09:32:58 INFO  LoginController:76 - cf732679-06e2-4ef2-90de-dff6506894d5 ___ token valido
+2023-03-16 09:32:58 INFO  LoginController:76 - 59d35705-39a1-4ac3-8df2-07b8c2b735de ___ token valido
+2023-03-16 09:32:59 INFO  LoginController:76 - 0ff0b7b5-8014-4854-9b2c-9d65f9daf1d5 ___ token valido
+2023-03-16 09:32:59 INFO  LoginController:76 - ed6b4546-b7ca-45ad-baf7-b5422e3aeaeb ___ token valido
+2023-03-16 09:32:59 INFO  LoginController:76 - 87fde550-fec8-4b15-98f1-7ac0fb9f1950 ___ token valido
+2023-03-16 09:32:59 INFO  LoginController:76 - bdd290f4-d140-4ae7-9775-fd560a79048d ___ token valido
+2023-03-16 09:33:00 INFO  LoginController:76 - 5589da25-8a01-4f6c-97f5-d852ce716e99 ___ token valido
+2023-03-16 09:33:00 INFO  LoginController:76 - f6c6f7c1-f142-4165-a558-04cc73780aa0 ___ token valido
+2023-03-16 11:12:37 INFO  LoginController:36 - 16f367e3-ad7e-432a-a1a7-11aa1c8ed507chiamata REST di login eseguita. ID: 
+2023-03-16 11:12:37 INFO  LoginController:125 - 16f367e3-ad7e-432a-a1a7-11aa1c8ed507 ___ inizio tentativo login da user:exampleuser29
+2023-03-16 11:12:37 INFO  LoginController:109 - 16f367e3-ad7e-432a-a1a7-11aa1c8ed507encrypted password matching check success
+2023-03-16 11:12:37 INFO  LoginController:168 - 16f367e3-ad7e-432a-a1a7-11aa1c8ed507 ___ login utente valido.
+2023-03-16 11:12:37 INFO  LoginController:65 - 16f367e3-ad7e-432a-a1a7-11aa1c8ed507 ___ login completato.
+2023-03-16 11:12:37 INFO  LoginController:72 - 9c22fd28-6ce0-4658-887d-e4931b8250af ___ action login: SUCCESS
+2023-03-16 11:12:37 INFO  LoginController:76 - da1ad08a-d41a-40c3-ab48-123c11cd2a96 ___ token valido
+2023-03-16 11:12:37 INFO  LoginController:76 - 6490ca06-e506-4979-8e7d-7f488e1a7aee ___ token valido
+2023-03-16 11:12:45 INFO  LoginController:76 - d4e929f7-dac8-41d9-ab6b-8e514dcc4e2e ___ token valido
+2023-03-16 11:12:45 INFO  LoginController:76 - 78d2f948-5fa4-4cfe-9f6f-8591c1e1219e ___ token valido
+2023-03-16 11:12:48 INFO  LoginController:76 - 578ea55e-99d2-4418-89a7-4fc4cafc177d ___ token valido
+2023-03-16 11:12:48 INFO  LoginController:76 - f8c84a4e-a53e-451a-926d-0498fd671684 ___ token valido
+2023-03-16 11:12:51 INFO  LoginController:76 - 2d8cfce7-6a1e-495f-892e-6b7eb49cfd32 ___ token valido
+2023-03-16 11:12:51 INFO  LoginController:76 - 1031d2e8-a88c-4f55-999e-062667a234d6 ___ token valido
+2023-03-16 11:12:51 INFO  LoginController:76 - 3ceab60b-f149-4a42-a886-29363226346a ___ token valido
+2023-03-16 11:12:51 INFO  LoginController:76 - 20e2509a-a7d0-4a3a-8c97-0c00bc72bc2e ___ token valido
+2023-03-16 11:13:09 INFO  LoginController:76 - f889a581-b62d-4a9e-9056-39b53985fc3d ___ token valido
+2023-03-16 11:13:09 INFO  LoginController:76 - 1c2e6899-66ee-4aa7-9b8d-170d5270027b ___ token valido
+2023-03-16 11:13:09 INFO  LoginController:59 - 931ac96a-ef36-44c2-a9fb-af57c3ebc1c6 ___ access table preview success
+2023-03-16 11:13:09 INFO  LoginController:59 - 6712044e-ddf0-412c-8dec-b3c08614ca79 ___ access table preview success
+2023-03-16 11:13:22 INFO  LoginController:76 - 8dd1cac2-0b45-4464-9abe-4357060e2b55 ___ token valido
+2023-03-16 11:13:22 INFO  LoginController:76 - 701be875-2b67-4ff4-8051-f8dce2a5437f ___ token valido
+2023-03-16 11:13:22 INFO  LoginController:76 - 5d929b94-df8f-4feb-8214-26454f902011 ___ token valido
+2023-03-16 11:13:22 INFO  LoginController:76 - bb234908-1fe1-4715-96c6-20a35320df5d ___ token valido
+2023-03-16 11:13:29 INFO  LoginController:76 - b249fb63-5d97-4163-ae20-e2f1e866f0ba ___ token valido
+2023-03-16 11:13:29 INFO  LoginController:76 - 40ba1054-c966-499f-85bd-f09b672c51d6 ___ token valido
+2023-03-16 11:13:38 INFO  LoginController:76 - f5a2c100-eb0b-4ec7-85a5-7d0c6f43ffe4 ___ token valido
+2023-03-16 11:13:38 INFO  LoginController:76 - f97dc2be-0ff0-4b9b-ae17-7b0e1b3ce368 ___ token valido
+2023-03-16 11:13:40 INFO  LoginController:51 - 4fb37d1d-f014-4b2f-b239-c3277b4586e1 ___ role table preview success
+2023-03-16 11:13:40 INFO  LoginController:76 - f82235d5-f21f-4c28-b477-87fa009f9e14 ___ token valido
+2023-03-16 11:13:40 INFO  LoginController:76 - 6e827dcf-7548-40f0-9e62-05ba2947c9b5 ___ token valido
+2023-03-16 11:13:41 INFO  LoginController:76 - 7c56b41b-7e91-496a-93aa-6d725dc8d34a ___ token valido
+2023-03-16 11:13:41 INFO  LoginController:76 - bbb0f35f-0bb1-4387-a715-2f90ef1a29cd ___ token valido
+2023-03-16 11:13:42 INFO  LoginController:76 - 6e2464c1-7f71-4249-8432-063fd6f16dce ___ token valido
+2023-03-16 11:13:42 INFO  LoginController:76 - 61f62b07-e746-4834-a57b-c6c00f284c2a ___ token valido
+2023-03-16 11:13:42 INFO  LoginController:167 - 9c7dbf6d-6719-4b14-b434-bb85474fa661xml file creation success
+2023-03-16 11:13:42 INFO  LoginController:48 - 9c7dbf6d-6719-4b14-b434-bb85474fa661 zipFolder success
+2023-03-16 11:13:50 INFO  LoginController:40 - 9c7dbf6d-6719-4b14-b434-bb85474fa661pdf file conversion success:  tabella_new2023-03-16-11-13-42-exampleuser29.pdf
+2023-03-16 11:13:50 INFO  LoginController:72 - 15541493-249e-4afa-88db-5ca1392412a2 ___ action access report download: SUCCESS
+2023-03-16 11:13:50 INFO  LoginController:76 - 60afce08-39c6-4ab0-8dff-472a434fb030 ___ token valido
+2023-03-16 11:13:50 INFO  LoginController:76 - 05617a29-6ff8-4ce0-a0f2-b8d27afcb2eb ___ token valido
+2023-03-16 11:14:14 INFO  LoginController:76 - bcd604f9-d9b5-4dc1-96c9-dcf7ab8c1d5d ___ token valido
+2023-03-16 11:14:14 INFO  LoginController:76 - 2ddab03c-67c0-4d7d-93db-62e1d3c71444 ___ token valido
+2023-03-16 11:14:14 INFO  LoginController:167 - f90119e1-8e27-4885-bc59-6fd292805a50xml file creation success
+2023-03-16 11:14:14 INFO  LoginController:48 - f90119e1-8e27-4885-bc59-6fd292805a50 zipFolder success
+2023-03-16 11:14:16 INFO  LoginController:40 - f90119e1-8e27-4885-bc59-6fd292805a50pdf file conversion success:  tabella_new2023-03-16-11-14-14-exampleuser29.pdf
+2023-03-16 11:14:16 INFO  LoginController:89 - f90119e1-8e27-4885-bc59-6fd292805a50 ___ role table export success
+2023-03-16 11:14:16 INFO  LoginController:72 - b408635f-f906-4e95-bd9f-9359b8c4de03 ___ action roles report download: SUCCESS
+2023-03-16 11:14:16 INFO  LoginController:76 - b0d3b531-b340-41a9-8a9c-c058f6322990 ___ token valido
+2023-03-16 11:14:16 INFO  LoginController:76 - c6c40596-345d-43ea-a63f-9595f9a7ca4c ___ token valido
+2023-03-16 11:14:28 INFO  LoginController:76 - f93694cc-9784-41df-ac68-22b1cfa84489 ___ token valido
+2023-03-16 11:14:28 INFO  LoginController:76 - 40984144-8eb6-4d88-9393-bf21c9e9b53e ___ token valido
+2023-03-16 11:14:28 INFO  LoginController:167 - e68989fa-d2ca-43bd-8ec9-9be25612e7dexml file creation success
+2023-03-16 11:14:29 INFO  LoginController:48 - e68989fa-d2ca-43bd-8ec9-9be25612e7de zipFolder success
+2023-03-16 11:14:32 INFO  LoginController:40 - e68989fa-d2ca-43bd-8ec9-9be25612e7depdf file conversion success:  tabella_new2023-03-16-11-14-28-exampleuser29.pdf
+2023-03-16 11:14:32 INFO  LoginController:76 - da13d931-feca-4bbc-835f-e4def828e49e ___ token valido
+2023-03-16 11:14:32 INFO  LoginController:72 - f6861664-6c7f-49d4-b7a0-c638aac90497 ___ action access report download: SUCCESS
+2023-03-16 11:14:32 INFO  LoginController:76 - faf4fc1a-129e-4005-942e-aa8741b3106a ___ token valido
+2023-03-16 11:14:54 INFO  LoginController:76 - 6adade7f-3654-4820-9447-4f9aab8e5d60 ___ token valido
+2023-03-16 11:14:54 INFO  LoginController:76 - 6a90e25e-89f8-44be-b494-b98bb06b21a5 ___ token valido
+2023-03-16 11:14:54 INFO  LoginController:76 - 453ea61d-f25c-4b7f-9163-6077686a6668 ___ token valido
+2023-03-16 11:14:54 INFO  LoginController:76 - ac84dad6-62a7-4ba9-88f3-1759b4f64518 ___ token valido
+2023-03-16 11:14:54 INFO  LoginController:76 - 93bdf68d-de21-4894-964e-79ddad2ffd43 ___ token valido
+2023-03-16 11:14:54 INFO  LoginController:76 - 7ccfe910-63f7-44c9-89b5-1debfdb674c2 ___ token valido
+2023-03-16 11:14:55 INFO  LoginController:76 - db795b08-4a9d-48bd-89ce-fc36e0967ffb ___ token valido
+2023-03-16 11:14:55 INFO  LoginController:76 - 3b9b83d3-bc46-4cc2-a9ad-7f7cfcbc55b3 ___ token valido
+2023-03-16 11:14:56 INFO  LoginController:76 - 3c681df5-7bcb-4b0d-b64f-3fda6409768f ___ token valido
+2023-03-16 11:14:56 INFO  LoginController:76 - 669ec62e-ea1a-41be-91cd-5af90b1d1dd7 ___ token valido
+2023-03-16 11:14:56 INFO  LoginController:76 - eaf5298d-3283-4f64-9e92-f88bbbd64a4d ___ token valido
+2023-03-16 11:14:56 INFO  LoginController:77 - 7fc020be-78e6-406f-aff6-2606dac913de ___ file list retrieve in directoryexampleuser29success
+2023-03-16 11:14:56 INFO  LoginController:77 - 71ef90d9-5410-41ca-b1da-7fbb9d75836e ___ file list retrieve in directoryexampleuser29success
+2023-03-16 11:14:56 INFO  LoginController:76 - 710b1f80-3f23-4bf8-bef5-05056a8e371b ___ token valido
+2023-03-16 11:15:00 INFO  LoginController:76 - b818905b-dbed-4a4d-bc47-6b5af3cc0314 ___ token valido
+2023-03-16 11:15:00 INFO  LoginController:76 - 864b8aa8-9d29-4b98-8de0-b1cf629c3ed2 ___ token valido
+2023-03-16 11:15:04 INFO  LoginController:76 - daf4e256-030a-475b-86df-d49423f46acc ___ token valido
+2023-03-16 11:15:04 INFO  LoginController:76 - 0657524c-cce4-4c59-addc-24c7c8d1bd31 ___ token valido
+2023-03-16 11:15:12 INFO  LoginController:77 - 0f6dd112-db4b-432a-9b11-a1d6719506eb ___ file list retrieve in directoryexampleuser29success
+2023-03-16 11:15:12 INFO  LoginController:159 - 03f993cb-70d3-4187-90db-1dc1c24ef7fa ___ file upload stream buffer success
+2023-03-16 11:15:12 INFO  LoginController:115 - 03f993cb-70d3-4187-90db-1dc1c24ef7fa ___ file upload process success
+2023-03-16 11:15:12 INFO  LoginController:77 - 398b5d4d-a1b8-46e2-9192-ecd749ce3dc8 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 11:15:12 INFO  LoginController:72 - a850d656-3bae-4fdb-a2f3-d37eb633ebe0 ___ action drive upload: SUCCESS
+2023-03-16 11:15:30 INFO  LoginController:77 - c374cc76-66bc-4baa-9c6a-69455471cdc2 ___ file list retrieve in directoryexampleuser29success
+2023-03-16 11:15:30 INFO  LoginController:76 - 9080ce22-af22-4b7e-9d6c-3aad506f2bc2 ___ token valido
+2023-03-16 11:15:30 INFO  LoginController:77 - a5787ae4-a831-4ae6-a510-6851cb0555ac ___ file list retrieve in directoryexampleuser29success
+2023-03-16 11:15:30 INFO  LoginController:76 - 958455c8-cccd-4720-b954-e27cb3295d75 ___ token valido
+2023-03-16 11:15:31 INFO  LoginController:76 - 23515be8-8bb0-4839-8216-49d5f1a1d783 ___ token valido
+2023-03-16 11:15:31 INFO  LoginController:76 - 7091f433-34e0-4be2-b524-457299285a61 ___ token valido
+2023-03-16 11:15:33 INFO  LoginController:76 - e49dec56-b52f-41bf-aa1c-d758880a56b2 ___ token valido
+2023-03-16 11:15:33 INFO  LoginController:76 - 2e3347c4-83b9-41b7-961d-95a13debd96e ___ token valido
+2023-03-16 11:15:34 INFO  LoginController:72 - 88706ce0-b636-4fdf-8c3b-d57dacf7080a ___ action drive download: SUCCESS
+2023-03-16 11:15:39 INFO  LoginController:76 - 1679d215-26bc-40c1-95fd-e8ffcce1d2bf ___ token valido
+2023-03-16 11:15:39 INFO  LoginController:76 - 988ea2cc-e174-45fd-9393-e07ff304bece ___ token valido
+2023-03-16 11:15:49 INFO  LoginController:76 - c6975065-3e9f-4484-a87a-e0eae737344c ___ token valido
+2023-03-16 11:15:49 INFO  LoginController:76 - 62bf20b8-3cf1-4aa7-aa6b-6fa35b325312 ___ token valido
+2023-03-16 11:15:53 INFO  LoginController:76 - 3bc36a84-6d28-4d0c-99bd-15356b2f828c ___ token valido
+2023-03-16 11:15:53 INFO  LoginController:76 - dd5fadde-ca41-4f24-a59c-73284199dd29 ___ token valido
+2023-03-16 11:16:07 INFO  LoginController:77 - 0041ae21-1290-4c3e-aaa9-d708ee750ccc ___ file list retrieve in directoryexampleuser29success
+2023-03-16 11:16:07 INFO  LoginController:76 - 20aafefe-e84e-446c-9172-65222db05c1f ___ token valido
+2023-03-16 11:16:07 INFO  LoginController:77 - 4b76b673-fdf5-4ae5-b55c-a8af47c00c5e ___ file list retrieve in directoryexampleuser29success
+2023-03-16 11:16:07 INFO  LoginController:76 - b660b267-746b-4fb9-a401-b558ef3e26de ___ token valido
+2023-03-16 11:16:15 INFO  LoginController:76 - 903295ef-d571-417b-ab01-907315cc62bc ___ token valido
+2023-03-16 11:16:15 INFO  LoginController:76 - d3d7692e-ccdb-4062-bef2-8c04923d8fe8 ___ token valido
+2023-03-16 11:16:15 INFO  LoginController:76 - 8a248b80-843f-4b8b-a15c-78955d6277c0 ___ token valido
+2023-03-16 11:16:15 INFO  LoginController:76 - f68414a9-5073-4fee-ab7d-f2f9710eda7f ___ token valido
+2023-03-16 11:16:19 INFO  LoginController:76 - 9573c768-b10c-4971-a6a0-251c62dbd2e8 ___ token valido
+2023-03-16 11:16:19 INFO  LoginController:76 - 359517c1-9307-4317-b1cb-58523f6f7d54 ___ token valido
+2023-03-16 11:16:19 INFO  LoginController:76 - 66aebb00-6e54-44e5-98bd-b2e98bbd0ea7 ___ token valido
+2023-03-16 11:16:19 INFO  LoginController:76 - b4faf7da-4250-4a45-aafd-a51550f4c71d ___ token valido
+2023-03-16 11:16:20 INFO  LoginController:76 - 3c98f753-b178-406c-bf98-d996fafc243f ___ token valido
+2023-03-16 11:16:20 INFO  LoginController:76 - 14e34a0c-f3ba-4578-bf46-0a169e1dcac6 ___ token valido
+2023-03-16 11:16:57 INFO  LoginController:76 - 36f60003-13a6-42e0-84b7-39a471344ace ___ token valido
+2023-03-16 11:16:57 INFO  LoginController:76 - 4716baad-5f31-4cf3-8008-70130f9906dc ___ token valido
+2023-03-16 11:17:03 INFO  LoginController:76 - acf7e936-7881-477f-aa71-8aa9e5dc14c9 ___ token valido
+2023-03-16 11:17:03 INFO  LoginController:76 - aae69614-0d28-4207-a0b6-0c2cb3cffed7 ___ token valido
+2023-03-16 11:17:03 INFO  LoginController:76 - 6be59401-1db5-412a-bcc3-f0ccf6f5e2e7 ___ token valido
+2023-03-16 11:17:03 INFO  LoginController:76 - 46ef9ade-cf94-44d1-a038-cf1e24d82980 ___ token valido
+2023-03-16 11:17:03 INFO  LoginController:76 - 992330ee-f1b9-4971-9e0a-7455a857f651 ___ token valido
+2023-03-16 11:17:03 INFO  LoginController:76 - 3ccb6275-e174-4136-8647-a68477dfaab3 ___ token valido
+2023-03-16 11:17:04 INFO  LoginController:76 - 56cc5d9e-3750-4a83-9ed6-baf0afba9ef6 ___ token valido
+2023-03-16 11:17:04 INFO  LoginController:76 - 77ea9fcc-ded0-4d0b-82f9-ed9b43020046 ___ token valido
+2023-03-16 11:17:07 INFO  LoginController:76 - b35c9f39-17c4-44c0-9a24-1f0fa9b3ee4f ___ token valido
+2023-03-16 11:17:07 INFO  LoginController:76 - 1d875480-1a76-4468-8456-1aeccd005c86 ___ token valido
+2023-03-16 11:17:08 INFO  LoginController:76 - 9168049c-e6f3-4453-9bd0-196c8347b5b5 ___ token valido
+2023-03-16 11:17:08 INFO  LoginController:76 - a2af3aa2-52c7-4d32-8a10-c4fbefda0517 ___ token valido
+2023-03-16 11:17:09 INFO  LoginController:76 - 255408d1-191a-4b8d-9310-081515d9bef2 ___ token valido
+2023-03-16 11:17:09 INFO  LoginController:76 - 4043fa16-7fcf-4a28-9afc-0d94db3fead4 ___ token valido
+2023-03-16 11:17:09 INFO  LoginController:76 - d84c20e2-772a-43de-bede-497f47c0be97 ___ token valido
+2023-03-16 11:17:09 INFO  LoginController:76 - a408082a-d303-437f-9efa-d84dfaebf1dd ___ token valido
+2023-03-16 11:17:22 INFO  LoginController:76 - 25bf4b73-038b-4cc0-b4a2-ccf792c69194 ___ token valido
+2023-03-16 11:17:22 INFO  LoginController:76 - 82933806-589d-4f65-99c9-f0bd0a2040e7 ___ token valido
+2023-03-16 11:17:23 INFO  LoginController:76 - 0633d8f2-8121-459a-bc1e-90d24965312b ___ token valido
+2023-03-16 11:17:23 INFO  LoginController:76 - 9734e767-ab55-420c-a126-fd5a40ba3ed6 ___ token valido
+2023-03-16 11:18:28 INFO  LoginController:76 - 695ee59e-ff61-449e-8ede-5905cd716642 ___ token valido
+2023-03-16 11:18:28 INFO  LoginController:76 - 773951cf-88df-4db3-a7b6-b03383f300a4 ___ token valido
+2023-03-16 11:18:28 INFO  LoginController:76 - 89cc92ed-685b-4b1c-83b5-1babb003f326 ___ token valido
+2023-03-16 11:18:28 INFO  LoginController:76 - 3d08971d-4823-4ee0-947a-c0f2e41e0836 ___ token valido
+2023-03-16 11:18:30 INFO  LoginController:76 - bad45107-f8a2-4659-9122-ae0311b00dea ___ token valido
+2023-03-16 11:18:30 INFO  LoginController:76 - 0f3a3302-f9ba-4b42-9b1f-8350904979c9 ___ token valido
+2023-03-16 11:18:31 INFO  LoginController:72 - 84061057-fb98-4239-b10e-92737ff802a4 ___ action drive download: SUCCESS
+2023-03-16 11:18:32 INFO  LoginController:76 - 5abc958a-c3ea-4fb1-8e0c-d7f2e9668832 ___ token valido
+2023-03-16 11:18:32 INFO  LoginController:76 - 74e2be09-e794-4595-8aa3-97ae8fb28675 ___ token valido
+2023-03-16 11:18:35 INFO  LoginController:76 - 5aee7099-c9a2-44d1-b93c-be58c24e0f91 ___ token valido
+2023-03-16 11:18:35 INFO  LoginController:76 - b5a20ea8-c476-41b3-be29-a3157bdea8d4 ___ token valido
+2023-03-16 11:18:35 INFO  LoginController:72 - fecb46ab-71f4-456a-941b-bf283a5e1073 ___ action drive download: FAIL
+2023-03-16 11:18:35 INFO  LoginController:76 - 12d81627-ed0c-491e-90d9-b40117899554 ___ token valido
+2023-03-16 11:18:35 INFO  LoginController:76 - 87cdbde6-bd5a-4964-8775-ca6d5d920bb0 ___ token valido
+2023-03-16 11:18:45 INFO  LoginController:76 - 138bdf97-96b0-4658-bde0-273941b756cc ___ token valido
+2023-03-16 11:18:45 INFO  LoginController:76 - 61aca963-831e-4760-864d-58f1e99afbbd ___ token valido
+2023-03-16 11:18:46 INFO  LoginController:76 - 7fe68239-7af6-4ae1-8b29-52a83f98c84a ___ token valido
+2023-03-16 11:18:46 INFO  LoginController:76 - a1503629-87b8-4ede-8bf2-3b5317ac10c0 ___ token valido
+2023-03-16 11:18:46 INFO  LoginController:76 - fe49207f-be87-4b4c-a128-c29adebe1792 ___ token valido
+2023-03-16 11:18:46 INFO  LoginController:76 - b5b6984b-8f83-4031-a83e-1a71c6cd4b6b ___ token valido
+2023-03-16 11:18:47 INFO  LoginController:76 - 3273be5f-1c0b-412f-a41a-12689f57be5e ___ token valido
+2023-03-16 11:18:47 INFO  LoginController:76 - bb48c4d5-be9a-4ff9-9dc3-b91187732f55 ___ token valido
